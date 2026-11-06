@@ -1,0 +1,81 @@
+# Category rules for explorer/build_data.py.
+# Edit freely. Rules run top to bottom against the item text (case-insensitive
+# regular expressions); the FIRST rule with any matching pattern wins.
+# 'other' is the fallback when nothing matches. Categories are descriptive
+# labels applied by keyword only; they are not audited classifications.
+categories:
+  - id: jail_moud
+    label: Jail-based medication for opioid use disorder
+    description: Medication for opioid use disorder (MOUD/MAT) delivered in a county jail or to incarcerated people.
+    patterns:
+      - '(medication|\bmat\b|moud|\bmoud\b).{0,60}(jail|incarcerat|correction|detention)'
+      - '(jail|incarcerat).{0,60}(medication|\bmat\b|moud)'
+  - id: medical_examiner_epi
+    label: Medical examiner and overdose death review
+    description: Medical examiner or coroner capacity, autopsy equipment, toxicology and overdose fatality review teams.
+    patterns:
+      - 'medical examiner|coroner|autops|body cooler|fatality review|death investigation|toxicolog'
+  - id: harm_reduction_naloxone
+    label: Harm reduction and naloxone
+    description: Naloxone/overdose reversal drugs, test strips, syringe services, sharps, lock boxes, medication disposal.
+    patterns:
+      - 'naloxone|narcan|overdose reversal|reversal (drug|med)|harm reduction|test strip|syringe|sharps|vending|lock ?box|medication disposal|drug disposal|take.?back'
+  - id: peer_recovery
+    label: Peer and recovery support
+    description: Peer support specialists, recovery coaches, recovery drop-in centers and mutual-aid meetings.
+    patterns:
+      - 'peer|recovery coach|drop-in|smart recovery|recovery support|recovery center|recovery community'
+  - id: staff_admin
+    label: Staffing, administration and responder wellness
+    description: Administration, bank fees, leases, planning, and first-responder or officer wellness.
+    patterns:
+      - 'bank fee|admin|payroll|lease|planning|first responder wellness|officer.{0,30}trauma|wellness support|staff development|leadership'
+  - id: navigation_case_management
+    label: Navigation, case management and crisis response
+    description: Navigators, case managers, social workers, co-responders, crisis and paramedic programs, wellness checks.
+    patterns:
+      - 'navigat|case manage|social work|coordinator|co-?respond|crisis|paramedic|wellness check|support checks|care portal|foster|connections? to care|family services'
+  - id: housing_recovery
+    label: Recovery and sober housing
+    description: Sober living, recovery residences, rental assistance and homelessness services.
+    patterns:
+      - 'sober living|recovery hous|recovery house|recovery residence|rental assistance|housing|homeless|shelter|\bbeds?\b'
+  - id: diversion_courts
+    label: Diversion and treatment courts
+    description: Drug or treatment courts, pretrial and deflection programs, prosecutor-side diversion.
+    patterns:
+      - 'diversion(?! deput)|drug court|treatment court|treatment alternative|\btad\b|pretrial|deflection|adult treatment|family treatment|justice point'
+  - id: reentry
+    label: Reentry
+    description: Services for people leaving jail or prison.
+    patterns:
+      - 're-?entry|post-?incarceration|pre-? and post|release|leaving'
+  - id: treatment_residential
+    label: Residential and inpatient treatment
+    description: Inpatient, residential, withdrawal management and room and board for treatment.
+    patterns:
+      - 'inpatient|residential|detox|withdrawal|room and board|community based residential|\bcbrf\b|arbor place|treatment facility'
+  - id: treatment_outpatient
+    label: Outpatient treatment and counseling
+    description: Counseling, outpatient and telehealth treatment, clinics, medication treatment outside jails.
+    patterns:
+      - 'outpatient|counsel|therap|telehealth|clinic|medication-assisted|medications? for opioid|\bmat\b|treatment|mental health|behavioral health'
+  - id: prevention_education
+    label: Prevention and education
+    description: School curricula, awareness campaigns, speakers, training and public messaging.
+    patterns:
+      - 'school|curriculum|education|campaign|awareness|prevention|\bdare\b|billboard|after-?prom|speaker|marketing|poster|coaster|training|youth|library|libraries|educator'
+  - id: enforcement
+    label: Law enforcement
+    description: Officers, detectives, deputies, task forces, drug testing kits and enforcement equipment.
+    patterns:
+      - 'officer|detective|deputy|deputies|patrol|task force|law enforcement|pole camera|trunarc|drug test|sheriff|police|crime scene|investigation|\bcanine\b|\bk-?9\b'
+  - id: data_analytics
+    label: Data and analytics
+    description: Data systems, analytics and prediction models.
+    patterns:
+      - '\bdata\b|analytic|prediction model|dashboard|software|\bapp\b'
+  - id: other
+    label: Other or unclassified
+    description: Anything the keyword rules do not match.
+    patterns: []

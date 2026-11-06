@@ -1,0 +1,3226 @@
+[
+  {
+    "id": "adams-county",
+    "name": "Adams County",
+    "type": "county",
+    "receipts_total": 529743.1,
+    "disbursements_total": 29895.48,
+    "interest_total": 0.0,
+    "balance_dec_2025": 499847.62,
+    "pct_spent": 0.056434,
+    "by_year": {
+      "2022": {
+        "receipts": 154462.57,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 40222.25,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 243532.26,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 91526.02,
+        "disbursements": 29895.48,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226188-26-adams/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_interest_reported"
+    ]
+  },
+  {
+    "id": "ashland-county",
+    "name": "Ashland County",
+    "type": "county",
+    "receipts_total": 364533.15,
+    "disbursements_total": 20000.0,
+    "interest_total": 22044.31,
+    "balance_dec_2025": 366599.2,
+    "pct_spent": 0.051736,
+    "by_year": {
+      "2022": {
+        "receipts": 106312.56,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 27675.87,
+        "disbursements": 0.0,
+        "interest": 3245.31
+      },
+      "2024": {
+        "receipts": 167568.09,
+        "disbursements": 0.0,
+        "interest": 6721.16
+      },
+      "2025": {
+        "receipts": 62976.63,
+        "disbursements": 20000.0,
+        "interest": 12077.84
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226257-26-ashland/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Corrected 2025 receipts over email.",
+    "flags": [
+      "balance_mismatch"
+    ]
+  },
+  {
+    "id": "barron-county",
+    "name": "Barron County",
+    "type": "county",
+    "receipts_total": 774405.28,
+    "disbursements_total": 196307.44,
+    "interest_total": 63447.14,
+    "balance_dec_2025": 641544.98,
+    "pct_spent": 0.234298,
+    "by_year": {
+      "2022": {
+        "receipts": 225830.11,
+        "disbursements": 0.0,
+        "interest": 1132.54
+      },
+      "2023": {
+        "receipts": 58795.82,
+        "disbursements": 30153.2,
+        "interest": 12534.39
+      },
+      "2024": {
+        "receipts": 355989.04,
+        "disbursements": 81655.68,
+        "interest": 21927.05
+      },
+      "2025": {
+        "receipts": 133790.31,
+        "disbursements": 84498.56,
+        "interest": 27853.16
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226226-26-barron/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "bayfield-county",
+    "name": "Bayfield County",
+    "type": "county",
+    "receipts_total": 200898.23,
+    "disbursements_total": 48107.58,
+    "interest_total": 16883.53,
+    "balance_dec_2025": 169673.95,
+    "pct_spent": 0.220898,
+    "by_year": {
+      "2022": {
+        "receipts": 58590.03,
+        "disbursements": 0.0,
+        "interest": 217.62
+      },
+      "2023": {
+        "receipts": 15252.47,
+        "disbursements": 2195.23,
+        "interest": 3242.23
+      },
+      "2024": {
+        "receipts": 92348.61,
+        "disbursements": 23650.15,
+        "interest": 6705.82
+      },
+      "2025": {
+        "receipts": 34707.12,
+        "disbursements": 22262.2,
+        "interest": 6717.86
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226243-26-bayfield/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Received corrected 2023 receipts from county. Received total interest from county.",
+    "flags": []
+  },
+  {
+    "id": "brown-county",
+    "name": "Brown County",
+    "type": "county",
+    "receipts_total": 4698426.8,
+    "disbursements_total": 956154.27,
+    "interest_total": 254129.0,
+    "balance_dec_2025": 3996402.0,
+    "pct_spent": 0.193063,
+    "by_year": {
+      "2022": {
+        "receipts": 1370250.7,
+        "disbursements": 0.0,
+        "interest": 1679.0
+      },
+      "2023": {
+        "receipts": 356711.1,
+        "disbursements": 155220.27,
+        "interest": 44392.0
+      },
+      "2024": {
+        "receipts": 2159766.0,
+        "disbursements": 367183.0,
+        "interest": 70904.0
+      },
+      "2025": {
+        "receipts": 811699.0,
+        "disbursements": 433751.0,
+        "interest": 137154.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226219-26-brown/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Recieved corrected interest totals from the county over email.",
+    "flags": []
+  },
+  {
+    "id": "buffalo-county",
+    "name": "Buffalo County",
+    "type": "county",
+    "receipts_total": 194726.76,
+    "disbursements_total": 0.0,
+    "interest_total": 17591.91,
+    "balance_dec_2025": 212318.67,
+    "pct_spent": 0.0,
+    "by_year": {
+      "2022": {
+        "receipts": 59535.04,
+        "disbursements": 0.0,
+        "interest": 250.34
+      },
+      "2023": {
+        "receipts": 15498.49,
+        "disbursements": 0.0,
+        "interest": 3243.3
+      },
+      "2024": {
+        "receipts": 88144.83,
+        "disbursements": 0.0,
+        "interest": 6490.73
+      },
+      "2025": {
+        "receipts": 31548.4,
+        "disbursements": 0.0,
+        "interest": 7607.54
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226258-26-buffalo/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_expenditure_text"
+    ]
+  },
+  {
+    "id": "burnett-county",
+    "name": "Burnett County",
+    "type": "county",
+    "receipts_total": 362912.93,
+    "disbursements_total": 688.3,
+    "interest_total": 6125.89,
+    "balance_dec_2025": 368350.52,
+    "pct_spent": 0.001865,
+    "by_year": {
+      "2022": {
+        "receipts": 105840.04,
+        "disbursements": 303.3,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 27552.86,
+        "disbursements": 280.0,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 166823.32,
+        "disbursements": 0.0,
+        "interest": 404.79
+      },
+      "2025": {
+        "receipts": 62696.71,
+        "disbursements": 105.0,
+        "interest": 5721.1
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226260-26-burnett/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Received corrected 2023 disbursements from county.",
+    "flags": []
+  },
+  {
+    "id": "calumet-county",
+    "name": "Calumet County",
+    "type": "county",
+    "receipts_total": 625377.16,
+    "disbursements_total": 77335.12,
+    "interest_total": 57633.17,
+    "balance_dec_2025": 605674.59,
+    "pct_spent": 0.113227,
+    "by_year": {
+      "2022": {
+        "receipts": 182385.09,
+        "disbursements": 0.0,
+        "interest": 895.08
+      },
+      "2023": {
+        "receipts": 47479.48,
+        "disbursements": 0.0,
+        "interest": 10363.63
+      },
+      "2024": {
+        "receipts": 287472.71,
+        "disbursements": 2675.0,
+        "interest": 22166.28
+      },
+      "2025": {
+        "receipts": 108039.88,
+        "disbursements": 74660.12,
+        "interest": 24208.18
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226252-26-calumet/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Confirmed 2022 interest with county.",
+    "flags": []
+  },
+  {
+    "id": "chippewa-county",
+    "name": "Chippewa County",
+    "type": "county",
+    "receipts_total": 1134372.01,
+    "disbursements_total": 343609.49,
+    "interest_total": 83296.74,
+    "balance_dec_2025": 874059.26,
+    "pct_spent": 0.282186,
+    "by_year": {
+      "2022": {
+        "receipts": 330609.83,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 85610.66,
+        "disbursements": 118220.64,
+        "interest": 15319.89
+      },
+      "2024": {
+        "receipts": 518343.87,
+        "disbursements": 130513.08,
+        "interest": 33050.71
+      },
+      "2025": {
+        "receipts": 199807.65,
+        "disbursements": 94875.77,
+        "interest": 34926.14
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226203-26-chippewa/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "clark-county",
+    "name": "Clark County",
+    "type": "county",
+    "receipts_total": 422858.37,
+    "disbursements_total": 153893.85,
+    "interest_total": 0.0,
+    "balance_dec_2025": 268964.52,
+    "pct_spent": 0.363937,
+    "by_year": {
+      "2022": {
+        "receipts": 123322.56,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 32104.0,
+        "disbursements": 77930.76,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 194378.95,
+        "disbursements": 13153.15,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 73052.86,
+        "disbursements": 62809.94,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226215-26-clark/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_interest_reported"
+    ]
+  },
+  {
+    "id": "columbia-county",
+    "name": "Columbia County",
+    "type": "county",
+    "receipts_total": 1743277.95,
+    "disbursements_total": 271603.72,
+    "interest_total": 105782.52,
+    "balance_dec_2025": 1577457.04,
+    "pct_spent": 0.146887,
+    "by_year": {
+      "2022": {
+        "receipts": 508410.25,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 132352.11,
+        "disbursements": 37185.05,
+        "interest": 15540.52
+      },
+      "2024": {
+        "receipts": 801347.43,
+        "disbursements": 59481.42,
+        "interest": 37571.57
+      },
+      "2025": {
+        "receipts": 301168.16,
+        "disbursements": 174937.25,
+        "interest": 52670.43
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226418-26-columbia-use/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Subtracted interest from receipt total when included.",
+    "flags": []
+  },
+  {
+    "id": "crawford-county",
+    "name": "Crawford County",
+    "type": "county",
+    "receipts_total": 315928.69,
+    "disbursements_total": 22128.0,
+    "interest_total": 0.0,
+    "balance_dec_2025": 293800.69,
+    "pct_spent": 0.070041,
+    "by_year": {
+      "2022": {
+        "receipts": 92137.54,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 23985.75,
+        "disbursements": 2128.0,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 145225.66,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 54579.74,
+        "disbursements": 20000.0,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226255-26-crawford/#document/p1",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_interest_reported"
+    ]
+  },
+  {
+    "id": "cudahy-city",
+    "name": "Cudahy, city",
+    "type": "municipality",
+    "receipts_total": 136971.25,
+    "disbursements_total": 0.0,
+    "interest_total": 140.48,
+    "balance_dec_2025": 137111.73,
+    "pct_spent": 0.0,
+    "by_year": {
+      "2022": {
+        "receipts": 41107.52,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 10650.85,
+        "disbursements": 0.0,
+        "interest": 140.48
+      },
+      "2024": {
+        "receipts": 60861.92,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 24350.96,
+        "disbursements": 0.0,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226196-26-cudahy/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Subtracted interest from 2023 receipt total.",
+    "flags": [
+      "no_expenditure_text"
+    ]
+  },
+  {
+    "id": "dane-county",
+    "name": "Dane County",
+    "type": "county",
+    "receipts_total": 13362973.24,
+    "disbursements_total": 4545973.11,
+    "interest_total": 870058.14,
+    "balance_dec_2025": 9687058.33,
+    "pct_spent": 0.319396,
+    "by_year": {
+      "2022": {
+        "receipts": 3897182.0,
+        "disbursements": 1510740.0,
+        "interest": 8054.24
+      },
+      "2023": {
+        "receipts": 1014535.58,
+        "disbursements": 735073.02,
+        "interest": 140383.19
+      },
+      "2024": {
+        "receipts": 6142672.92,
+        "disbursements": 1359155.52,
+        "interest": 346172.92
+      },
+      "2025": {
+        "receipts": 2308582.74,
+        "disbursements": 941004.57,
+        "interest": 375447.79
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226224-26-dane/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_expenditure_text"
+    ]
+  },
+  {
+    "id": "dodge-county",
+    "name": "Dodge County",
+    "type": "county",
+    "receipts_total": 2109431.52,
+    "disbursements_total": 0.0,
+    "interest_total": 161040.15,
+    "balance_dec_2025": 2109431.52,
+    "pct_spent": 0.0,
+    "by_year": {
+      "2022": {
+        "receipts": 615195.32,
+        "disbursements": 0.0,
+        "interest": 3061.93
+      },
+      "2023": {
+        "receipts": 160150.98,
+        "disbursements": 0.0,
+        "interest": 34914.0
+      },
+      "2024": {
+        "receipts": 969660.54,
+        "disbursements": 0.0,
+        "interest": 74798.13
+      },
+      "2025": {
+        "receipts": 364424.68,
+        "disbursements": 0.0,
+        "interest": 48266.09
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28227550-26-dodge-use/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Dec. 2025 balance does not include accumulated interest.",
+    "flags": [
+      "balance_mismatch",
+      "no_expenditure_text",
+      "interest_excluded"
+    ]
+  },
+  {
+    "id": "door-county",
+    "name": "Door County",
+    "type": "county",
+    "receipts_total": 456881.47,
+    "disbursements_total": 0.0,
+    "interest_total": 0.0,
+    "balance_dec_2025": 456881.47,
+    "pct_spent": 0.0,
+    "by_year": {
+      "2022": {
+        "receipts": 133245.07,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 34687.08,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 210018.64,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 78930.68,
+        "disbursements": 0.0,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226221-26-door/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_interest_reported",
+      "no_expenditure_text"
+    ]
+  },
+  {
+    "id": "douglas-county",
+    "name": "Douglas County",
+    "type": "county",
+    "receipts_total": 899013.0,
+    "disbursements_total": 321126.0,
+    "interest_total": 78790.0,
+    "balance_dec_2025": 656677.0,
+    "pct_spent": 0.328416,
+    "by_year": {
+      "2022": {
+        "receipts": 263218.0,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 68144.0,
+        "disbursements": 0.0,
+        "interest": 14528.0
+      },
+      "2024": {
+        "receipts": 412589.0,
+        "disbursements": 96598.0,
+        "interest": 28099.0
+      },
+      "2025": {
+        "receipts": 155062.0,
+        "disbursements": 224528.0,
+        "interest": 36163.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226262-26-douglas/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "dunn-county",
+    "name": "Dunn County",
+    "type": "county",
+    "receipts_total": 716105.0,
+    "disbursements_total": 92302.0,
+    "interest_total": 25978.36,
+    "balance_dec_2025": 649781.36,
+    "pct_spent": 0.124382,
+    "by_year": {
+      "2022": {
+        "receipts": 208845.11,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 54367.69,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 329178.14,
+        "disbursements": 21436.0,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 123714.06,
+        "disbursements": 70866.0,
+        "interest": 25978.36
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226247-26-dunn/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "eau-claire-county",
+    "name": "Eau Claire County",
+    "type": "county",
+    "receipts_total": 1906914.0,
+    "disbursements_total": 160879.0,
+    "interest_total": 174384.0,
+    "balance_dec_2025": 920419.0,
+    "pct_spent": 0.077297,
+    "by_year": {
+      "2022": {
+        "receipts": 556133.0,
+        "disbursements": 0.0,
+        "interest": 2951.0
+      },
+      "2023": {
+        "receipts": 144776.0,
+        "disbursements": 0.0,
+        "interest": 31409.0
+      },
+      "2024": {
+        "receipts": 876567.0,
+        "disbursements": 101103.0,
+        "interest": 64974.0
+      },
+      "2025": {
+        "receipts": 329438.0,
+        "disbursements": 59776.0,
+        "interest": 75050.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28269389-eau-claire-26-use/#document/p1",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "balance_mismatch"
+    ]
+  },
+  {
+    "id": "florence-county",
+    "name": "Florence County",
+    "type": "county",
+    "receipts_total": 85867.79,
+    "disbursements_total": 2425.0,
+    "interest_total": 2366.41,
+    "balance_dec_2025": 85809.19,
+    "pct_spent": 0.027484,
+    "by_year": {
+      "2022": {
+        "receipts": 25042.51,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 6519.2,
+        "disbursements": 975.0,
+        "interest": 446.4
+      },
+      "2024": {
+        "receipts": 39471.59,
+        "disbursements": 0.0,
+        "interest": 823.62
+      },
+      "2025": {
+        "receipts": 14834.49,
+        "disbursements": 1450.0,
+        "interest": 1096.39
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226193-26-florence/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Recieved corrected 2025 report from county.",
+    "flags": []
+  },
+  {
+    "id": "fond-du-lac-county",
+    "name": "Fond du Lac County",
+    "type": "county",
+    "receipts_total": 1937695.92,
+    "disbursements_total": 454401.58,
+    "interest_total": 190323.21,
+    "balance_dec_2025": 1673617.55,
+    "pct_spent": 0.213533,
+    "by_year": {
+      "2022": {
+        "receipts": 565110.3,
+        "disbursements": 0.0,
+        "interest": 3396.61
+      },
+      "2023": {
+        "receipts": 147112.58,
+        "disbursements": 0.0,
+        "interest": 33396.1
+      },
+      "2024": {
+        "receipts": 890717.36,
+        "disbursements": 0.0,
+        "interest": 70999.52
+      },
+      "2025": {
+        "receipts": 334755.68,
+        "disbursements": 454401.58,
+        "interest": 82530.98
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28227615-26-fond-du-lac/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "forest-county",
+    "name": "Forest County",
+    "type": "county",
+    "receipts_total": 205758.72,
+    "disbursements_total": 56953.97,
+    "interest_total": 0.0,
+    "balance_dec_2025": 148804.75,
+    "pct_spent": 0.2768,
+    "by_year": {
+      "2022": {
+        "receipts": 60007.53,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 15621.49,
+        "disbursements": 55107.97,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 94582.89,
+        "disbursements": 1846.0,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 35546.81,
+        "disbursements": 0.0,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226206-26-forest/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_interest_reported"
+    ]
+  },
+  {
+    "id": "franklin-city",
+    "name": "Franklin, city",
+    "type": "municipality",
+    "receipts_total": 251122.79,
+    "disbursements_total": 0.0,
+    "interest_total": 0.0,
+    "balance_dec_2025": 251122.79,
+    "pct_spent": 0.0,
+    "by_year": {
+      "2022": {
+        "receipts": 73237.54,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 19065.59,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 115435.77,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 43383.89,
+        "disbursements": 0.0,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226198-26-franklin/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_interest_reported",
+      "no_expenditure_text"
+    ]
+  },
+  {
+    "id": "grant-county",
+    "name": "Grant County",
+    "type": "county",
+    "receipts_total": 806833.27,
+    "disbursements_total": 61675.0,
+    "interest_total": 8237.56,
+    "balance_dec_2025": 753395.83,
+    "pct_spent": 0.075668,
+    "by_year": {
+      "2022": {
+        "receipts": 235305.11,
+        "disbursements": 0.0,
+        "interest": 39.63
+      },
+      "2023": {
+        "receipts": 61255.91,
+        "disbursements": 3000.0,
+        "interest": 1127.06
+      },
+      "2024": {
+        "receipts": 370884.0,
+        "disbursements": 40000.0,
+        "interest": 2979.63
+      },
+      "2025": {
+        "receipts": 139388.25,
+        "disbursements": 18675.0,
+        "interest": 4091.24
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226222-26-grant/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Subtracted interest from 2024 receipt total.",
+    "flags": []
+  },
+  {
+    "id": "green-county",
+    "name": "Green County",
+    "type": "county",
+    "receipts_total": 756190.88,
+    "disbursements_total": 168438.56,
+    "interest_total": 64794.19,
+    "balance_dec_2025": 652546.51,
+    "pct_spent": 0.205166,
+    "by_year": {
+      "2022": {
+        "receipts": 221387.42,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 57319.79,
+        "disbursements": 0.0,
+        "interest": 12037.98
+      },
+      "2024": {
+        "receipts": 347052.1,
+        "disbursements": 62961.34,
+        "interest": 25495.64
+      },
+      "2025": {
+        "receipts": 130431.57,
+        "disbursements": 105477.22,
+        "interest": 27260.57
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226211-26-green/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "green-lake-county",
+    "name": "Green Lake County",
+    "type": "county",
+    "receipts_total": 453641.22,
+    "disbursements_total": 0.0,
+    "interest_total": 30344.67,
+    "balance_dec_2025": 483985.89,
+    "pct_spent": 0.0,
+    "by_year": {
+      "2022": {
+        "receipts": 132300.07,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 34441.08,
+        "disbursements": 0.0,
+        "interest": 17.22
+      },
+      "2024": {
+        "receipts": 208529.17,
+        "disbursements": 0.0,
+        "interest": 12107.16
+      },
+      "2025": {
+        "receipts": 78370.9,
+        "disbursements": 0.0,
+        "interest": 18220.29
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226192-26-green-lake/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_expenditure_text"
+    ]
+  },
+  {
+    "id": "greenfield-city",
+    "name": "Greenfield, city",
+    "type": "municipality",
+    "receipts_total": 264084.0,
+    "disbursements_total": 0.0,
+    "interest_total": 0.0,
+    "balance_dec_2025": 264084.0,
+    "pct_spent": 0.0,
+    "by_year": {
+      "2022": {
+        "receipts": 77017.55,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 20049.63,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 121393.77,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 45623.05,
+        "disbursements": 0.0,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226195-26-greenfield/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_interest_reported",
+      "no_expenditure_text"
+    ]
+  },
+  {
+    "id": "iowa-county",
+    "name": "Iowa County",
+    "type": "county",
+    "receipts_total": 452021.02,
+    "disbursements_total": 210720.64,
+    "interest_total": 7417.19,
+    "balance_dec_2025": 248717.57,
+    "pct_spent": 0.458648,
+    "by_year": {
+      "2022": {
+        "receipts": 131827.56,
+        "disbursements": 17.5,
+        "interest": 135.5
+      },
+      "2023": {
+        "receipts": 34318.07,
+        "disbursements": 41629.36,
+        "interest": 1345.78
+      },
+      "2024": {
+        "receipts": 207784.4,
+        "disbursements": 54625.98,
+        "interest": 2582.44
+      },
+      "2025": {
+        "receipts": 78090.99,
+        "disbursements": 114447.8,
+        "interest": 3353.47
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28227624-26-iowa/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Received corrected 2023 and 2024 figures from county.",
+    "flags": []
+  },
+  {
+    "id": "iron-county",
+    "name": "Iron County",
+    "type": "county",
+    "receipts_total": 98828.95,
+    "disbursements_total": 7672.61,
+    "interest_total": 4795.17,
+    "balance_dec_2025": 95951.51,
+    "pct_spent": 0.074043,
+    "by_year": {
+      "2022": {
+        "receipts": 28822.51,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 7503.24,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 45429.55,
+        "disbursements": 276.93,
+        "interest": 1383.44
+      },
+      "2025": {
+        "receipts": 17073.65,
+        "disbursements": 7395.68,
+        "interest": 3411.73
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28227625-26-iron/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "jackson-county",
+    "name": "Jackson County",
+    "type": "county",
+    "receipts_total": 382354.75,
+    "disbursements_total": 68286.17,
+    "interest_total": 47468.01,
+    "balance_dec_2025": 361536.59,
+    "pct_spent": 0.158871,
+    "by_year": {
+      "2022": {
+        "receipts": 111510.05,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 29028.91,
+        "disbursements": 0.0,
+        "interest": 6820.08
+      },
+      "2024": {
+        "receipts": 175760.3,
+        "disbursements": 0.0,
+        "interest": 13061.15
+      },
+      "2025": {
+        "receipts": 66055.49,
+        "disbursements": 68286.17,
+        "interest": 27586.78
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226234-26-jackson/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "jefferson-county",
+    "name": "Jefferson County",
+    "type": "county",
+    "receipts_total": 1702774.58,
+    "disbursements_total": 331431.88,
+    "interest_total": 0.0,
+    "balance_dec_2025": 1371300.52,
+    "pct_spent": 0.194642,
+    "by_year": {
+      "2022": {
+        "receipts": 496597.75,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 129277.02,
+        "disbursements": 85476.87,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 782729.05,
+        "disbursements": 98288.14,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 294170.76,
+        "disbursements": 147666.87,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://embed.documentcloud.org/documents/28227629-26-jefferson/?embed=1",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "balance_mismatch",
+      "no_interest_reported"
+    ]
+  },
+  {
+    "id": "juneau-county",
+    "name": "Juneau County",
+    "type": "county",
+    "receipts_total": 710709.41,
+    "disbursements_total": 173319.68,
+    "interest_total": 51051.6,
+    "balance_dec_2025": 588441.33,
+    "pct_spent": 0.227525,
+    "by_year": {
+      "2022": {
+        "receipts": 206955.11,
+        "disbursements": 0.0,
+        "interest": 552.55
+      },
+      "2023": {
+        "receipts": 53875.67,
+        "disbursements": 0.0,
+        "interest": 11676.08
+      },
+      "2024": {
+        "receipts": 50755.2,
+        "disbursements": 77879.55,
+        "interest": 15332.02
+      },
+      "2025": {
+        "receipts": 399123.43,
+        "disbursements": 95440.13,
+        "interest": 23490.95
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28227632-26-juneau/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "kenosha-county",
+    "name": "Kenosha County",
+    "type": "county",
+    "receipts_total": 6021276.37,
+    "disbursements_total": 828492.67,
+    "interest_total": 513010.68,
+    "balance_dec_2025": 5705794.39,
+    "pct_spent": 0.126792,
+    "by_year": {
+      "2022": {
+        "receipts": 1761211.28,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 456590.21,
+        "disbursements": 87888.8,
+        "interest": 78314.29
+      },
+      "2024": {
+        "receipts": 2764500.69,
+        "disbursements": 409180.46,
+        "interest": 177940.21
+      },
+      "2025": {
+        "receipts": 1038974.19,
+        "disbursements": 331423.41,
+        "interest": 256756.18
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28227631-26-kenosha/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "kenosha-city",
+    "name": "Kenosha, city",
+    "type": "municipality",
+    "receipts_total": 784151.21,
+    "disbursements_total": 0.0,
+    "interest_total": 0.0,
+    "balance_dec_2025": 784151.21,
+    "pct_spent": 0.0,
+    "by_year": {
+      "2022": {
+        "receipts": 228690.12,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 59533.86,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 360457.53,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 135469.7,
+        "disbursements": 0.0,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226217-26-kenosha-city/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Assumed Dec. 2025 balance based on total receipts and expenditures.",
+    "flags": [
+      "no_interest_reported",
+      "no_expenditure_text"
+    ]
+  },
+  {
+    "id": "kewaunee-county",
+    "name": "Kewaunee County",
+    "type": "county",
+    "receipts_total": 252857.08,
+    "disbursements_total": 5650.0,
+    "interest_total": 23771.7,
+    "balance_dec_2025": 270978.78,
+    "pct_spent": 0.020424,
+    "by_year": {
+      "2022": {
+        "receipts": 73824.14,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 19188.6,
+        "disbursements": 0.0,
+        "interest": 4080.39
+      },
+      "2024": {
+        "receipts": 116180.54,
+        "disbursements": 2100.0,
+        "interest": 9207.7
+      },
+      "2025": {
+        "receipts": 43663.8,
+        "disbursements": 3550.0,
+        "interest": 10483.61
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226210-26-kewaunee/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "lacrosse-county",
+    "name": "LaCrosse County",
+    "type": "county",
+    "receipts_total": 2671622.57,
+    "disbursements_total": 0.0,
+    "interest_total": 244183.44,
+    "balance_dec_2025": 2915806.01,
+    "pct_spent": 0.0,
+    "by_year": {
+      "2022": {
+        "receipts": 779152.9,
+        "disbursements": 0.0,
+        "interest": 661.9
+      },
+      "2023": {
+        "receipts": 202833.31,
+        "disbursements": 0.0,
+        "interest": 39687.17
+      },
+      "2024": {
+        "receipts": 1228087.74,
+        "disbursements": 0.0,
+        "interest": 93557.08
+      },
+      "2025": {
+        "receipts": 461548.62,
+        "disbursements": 0.0,
+        "interest": 110277.29
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226229-26-la-crosse/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_expenditure_text"
+    ]
+  },
+  {
+    "id": "lafayette-county",
+    "name": "Lafayette County",
+    "type": "county",
+    "receipts_total": 213082.95,
+    "disbursements_total": 0.0,
+    "interest_total": 20550.94,
+    "balance_dec_2025": 233633.89,
+    "pct_spent": 0.0,
+    "by_year": {
+      "2022": {
+        "receipts": 63315.03,
+        "disbursements": 0.0,
+        "interest": 132.51
+      },
+      "2023": {
+        "receipts": 13959.17,
+        "disbursements": 0.0,
+        "interest": 3296.87
+      },
+      "2024": {
+        "receipts": 102319.44,
+        "disbursements": 0.0,
+        "interest": 7863.71
+      },
+      "2025": {
+        "receipts": 33489.31,
+        "disbursements": 0.0,
+        "interest": 9257.85
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28227630-26-lafayette/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Confirmed 2022 interest with county.",
+    "flags": [
+      "no_expenditure_text"
+    ]
+  },
+  {
+    "id": "langlade-county",
+    "name": "Langlade County",
+    "type": "county",
+    "receipts_total": 505485.86,
+    "disbursements_total": 111177.46,
+    "interest_total": 29790.89,
+    "balance_dec_2025": 424099.29,
+    "pct_spent": 0.207701,
+    "by_year": {
+      "2022": {
+        "receipts": 147420.06,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 38377.2,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 232361.04,
+        "disbursements": 1579.7,
+        "interest": 12047.52
+      },
+      "2025": {
+        "receipts": 87327.56,
+        "disbursements": 109597.76,
+        "interest": 17743.37
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226256-26-langlade/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "lincoln-county",
+    "name": "Lincoln County",
+    "type": "county",
+    "receipts_total": 567051.49,
+    "disbursements_total": 48987.74,
+    "interest_total": 38914.45,
+    "balance_dec_2025": 556978.63,
+    "pct_spent": 0.080842,
+    "by_year": {
+      "2022": {
+        "receipts": 165375.09,
+        "disbursements": 0.0,
+        "interest": 618.91
+      },
+      "2023": {
+        "receipts": 43051.34,
+        "disbursements": 503.94,
+        "interest": 7495.72
+      },
+      "2024": {
+        "receipts": 260661.43,
+        "disbursements": 9800.0,
+        "interest": 14643.0
+      },
+      "2025": {
+        "receipts": 97963.63,
+        "disbursements": 38683.8,
+        "interest": 16156.82
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226253-26-lincoln/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "manitowoc-county",
+    "name": "Manitowoc County",
+    "type": "county",
+    "receipts_total": 2216943.42,
+    "disbursements_total": 1050000.0,
+    "interest_total": 149879.83,
+    "balance_dec_2025": 1316823.25,
+    "pct_spent": 0.443633,
+    "by_year": {
+      "2022": {
+        "receipts": 606794.87,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 172574.37,
+        "disbursements": 250000.0,
+        "interest": 34228.66
+      },
+      "2024": {
+        "receipts": 1044880.0,
+        "disbursements": 300000.0,
+        "interest": 52009.49
+      },
+      "2025": {
+        "receipts": 392694.18,
+        "disbursements": 500000.0,
+        "interest": 63641.68
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28227643-26-manitowoc/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "name_corrected_from_source"
+    ]
+  },
+  {
+    "id": "marathon-county",
+    "name": "Marathon County",
+    "type": "county",
+    "receipts_total": 2118779.28,
+    "disbursements_total": 70000.0,
+    "interest_total": 205033.99,
+    "balance_dec_2025": 2253813.27,
+    "pct_spent": 0.030123,
+    "by_year": {
+      "2022": {
+        "receipts": 594877.81,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 154861.82,
+        "disbursements": 0.0,
+        "interest": 32276.61
+      },
+      "2024": {
+        "receipts": 1016650.5,
+        "disbursements": 70000.0,
+        "interest": 77460.66
+      },
+      "2025": {
+        "receipts": 352389.15,
+        "disbursements": 0.0,
+        "interest": 95296.72
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226190-26-marathon/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "marinette-county",
+    "name": "Marinette County",
+    "type": "county",
+    "receipts_total": 814934.0,
+    "disbursements_total": 178903.09,
+    "interest_total": 0.0,
+    "balance_dec_2025": 636030.91,
+    "pct_spent": 0.219531,
+    "by_year": {
+      "2022": {
+        "receipts": 237667.63,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 61870.93,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 374607.72,
+        "disbursements": 30868.09,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 140787.72,
+        "disbursements": 148035.0,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226208-26-marinette/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_interest_reported"
+    ]
+  },
+  {
+    "id": "marinette-city",
+    "name": "Marinette, city",
+    "type": "municipality",
+    "receipts_total": 52102.93,
+    "disbursements_total": 1937.5,
+    "interest_total": 2234.56,
+    "balance_dec_2025": 52399.86,
+    "pct_spent": 0.035657,
+    "by_year": {
+      "2022": {
+        "receipts": 15120.01,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 3936.12,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 24090.13,
+        "disbursements": 0.0,
+        "interest": 936.68
+      },
+      "2025": {
+        "receipts": 8956.67,
+        "disbursements": 1937.5,
+        "interest": 1297.88
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226230-26-marinette-city/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Recieved 2022 receipt, interest and expenditure totals from the city.",
+    "flags": []
+  },
+  {
+    "id": "marquette-county",
+    "name": "Marquette County",
+    "type": "county",
+    "receipts_total": 398556.17,
+    "disbursements_total": 279866.91,
+    "interest_total": 0.0,
+    "balance_dec_2025": 118689.26,
+    "pct_spent": 0.702202,
+    "by_year": {
+      "2022": {
+        "receipts": 116235.06,
+        "disbursements": 12894.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 30258.94,
+        "disbursements": 45159.18,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 183207.74,
+        "disbursements": 48901.04,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 68854.43,
+        "disbursements": 172912.69,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://embed.documentcloud.org/documents/28226216-26-marquette/?embed=1",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_interest_reported"
+    ]
+  },
+  {
+    "id": "menominee-county",
+    "name": "Menominee County",
+    "type": "county",
+    "receipts_total": 129611.74,
+    "disbursements_total": 112188.96,
+    "interest_total": 0.0,
+    "balance_dec_2025": 17422.84,
+    "pct_spent": 0.865577,
+    "by_year": {
+      "2022": {
+        "receipts": 37800.02,
+        "disbursements": 10805.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 9840.3,
+        "disbursements": 12451.46,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 59579.74,
+        "disbursements": 38616.5,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 22391.68,
+        "disbursements": 50316.0,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226220-26-menominee/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "County corrected 2024 disbursements over email.",
+    "flags": [
+      "no_interest_reported"
+    ]
+  },
+  {
+    "id": "milwaukee-county",
+    "name": "Milwaukee County",
+    "type": "county",
+    "receipts_total": 40861729.81,
+    "disbursements_total": 16347422.31,
+    "interest_total": 0.0,
+    "balance_dec_2025": 24514307.5,
+    "pct_spent": 0.400067,
+    "by_year": {
+      "2022": {
+        "receipts": 11916928.58,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 3102279.56,
+        "disbursements": 1011734.34,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 18783263.06,
+        "disbursements": 4870848.86,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 7059258.61,
+        "disbursements": 10464839.11,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226191-26-milwaukee/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_interest_reported",
+      "initiatives_overlap_periods"
+    ]
+  },
+  {
+    "id": "milwaukee-city",
+    "name": "Milwaukee, city",
+    "type": "municipality",
+    "receipts_total": 13351474.02,
+    "disbursements_total": 2136010.72,
+    "interest_total": 1168663.73,
+    "balance_dec_2025": 12384127.03,
+    "pct_spent": 0.147107,
+    "by_year": {
+      "2022": {
+        "receipts": 3692589.37,
+        "disbursements": 0.0,
+        "interest": 18653.35
+      },
+      "2023": {
+        "receipts": 961274.92,
+        "disbursements": 106747.86,
+        "interest": 205576.56
+      },
+      "2024": {
+        "receipts": 5820197.49,
+        "disbursements": 428375.03,
+        "interest": 443087.03
+      },
+      "2025": {
+        "receipts": 2877412.24,
+        "disbursements": 1600887.83,
+        "interest": 501346.79
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226251-26-milwaukee-city/#document/p1",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "monroe-county",
+    "name": "Monroe County",
+    "type": "county",
+    "receipts_total": 1061196.88,
+    "disbursements_total": 113519.04,
+    "interest_total": 95170.02,
+    "balance_dec_2025": 1156366.38,
+    "pct_spent": 0.098169,
+    "by_year": {
+      "2022": {
+        "receipts": 309487.67,
+        "disbursements": 0.0,
+        "interest": 1521.45
+      },
+      "2023": {
+        "receipts": 80567.51,
+        "disbursements": 0.0,
+        "interest": 13857.91
+      },
+      "2024": {
+        "receipts": 487809.25,
+        "disbursements": 0.0,
+        "interest": 33161.07
+      },
+      "2025": {
+        "receipts": 183332.45,
+        "disbursements": 113519.04,
+        "interest": 46629.59
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226212-26-monroe/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "2025 disbursements were taken out of the account in 2026 and were not subtracted from the county's end of the year balance.",
+    "flags": [
+      "balance_mismatch",
+      "balance_timing_note"
+    ]
+  },
+  {
+    "id": "mount-pleasant-village",
+    "name": "Mount Pleasant, village",
+    "type": "municipality",
+    "receipts_total": 189557.99,
+    "disbursements_total": 89553.2,
+    "interest_total": 7593.39,
+    "balance_dec_2025": 107597.0,
+    "pct_spent": 0.454236,
+    "by_year": {
+      "2022": {
+        "receipts": 55282.54,
+        "disbursements": 27295.98,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 14391.45,
+        "disbursements": 7190.22,
+        "interest": 759.39
+      },
+      "2024": {
+        "receipts": 87136.0,
+        "disbursements": 0.0,
+        "interest": 3342.0
+      },
+      "2025": {
+        "receipts": 32748.0,
+        "disbursements": 55067.0,
+        "interest": 3492.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226202-26-mount-pleasant/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Additional disbursements not included in reports confirmed with village official.",
+    "flags": [
+      "balance_mismatch",
+      "balance_timing_note"
+    ]
+  },
+  {
+    "id": "oak-creek-city",
+    "name": "Oak Creek, city",
+    "type": "municipality",
+    "receipts_total": 268944.39,
+    "disbursements_total": 0.0,
+    "interest_total": 0.0,
+    "balance_dec_2025": 268944.39,
+    "pct_spent": 0.0,
+    "by_year": {
+      "2022": {
+        "receipts": 78435.03,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 20418.63,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 123627.98,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 46462.75,
+        "disbursements": 0.0,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226228-26-oak-creek/#document/p1",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_interest_reported",
+      "no_expenditure_text"
+    ]
+  },
+  {
+    "id": "oconto-county",
+    "name": "Oconto County",
+    "type": "county",
+    "receipts_total": 544369.42,
+    "disbursements_total": 81966.84,
+    "interest_total": 49365.22,
+    "balance_dec_2025": 511767.8,
+    "pct_spent": 0.138053,
+    "by_year": {
+      "2022": {
+        "receipts": 158760.09,
+        "disbursements": 0.0,
+        "interest": 552.2
+      },
+      "2023": {
+        "receipts": 41329.28,
+        "disbursements": 0.0,
+        "interest": 8509.75
+      },
+      "2024": {
+        "receipts": 250234.98,
+        "disbursements": 0.0,
+        "interest": 20001.81
+      },
+      "2025": {
+        "receipts": 94045.07,
+        "disbursements": 81966.84,
+        "interest": 20301.46
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226201-26-oconto/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "oneida-county",
+    "name": "Oneida County",
+    "type": "county",
+    "receipts_total": 852197.38,
+    "disbursements_total": 26977.41,
+    "interest_total": 94373.99,
+    "balance_dec_2025": 919593.89,
+    "pct_spent": 0.0285,
+    "by_year": {
+      "2022": {
+        "receipts": 248535.13,
+        "disbursements": 0.0,
+        "interest": 1162.35
+      },
+      "2023": {
+        "receipts": 64700.02,
+        "disbursements": 0.0,
+        "interest": 14107.57
+      },
+      "2024": {
+        "receipts": 391736.9,
+        "disbursements": 0.0,
+        "interest": 45239.67
+      },
+      "2025": {
+        "receipts": 147225.33,
+        "disbursements": 26977.41,
+        "interest": 33864.4
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226231-26-oneida/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "outagamie-county",
+    "name": "Outagamie County",
+    "type": "county",
+    "receipts_total": 2669743.9,
+    "disbursements_total": 1139762.05,
+    "interest_total": 259531.36,
+    "balance_dec_2025": 1789515.96,
+    "pct_spent": 0.389094,
+    "by_year": {
+      "2022": {
+        "receipts": 867510.44,
+        "disbursements": 0.0,
+        "interest": 4832.55
+      },
+      "2023": {
+        "receipts": 225835.02,
+        "disbursements": 97050.0,
+        "interest": 49266.66
+      },
+      "2024": {
+        "receipts": 1012509.27,
+        "disbursements": 278578.0,
+        "interest": 97970.53
+      },
+      "2025": {
+        "receipts": 563889.17,
+        "disbursements": 764134.05,
+        "interest": 107461.62
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226214-26-outagamie/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Corrected 2023 disbursements provided over email.",
+    "flags": [
+      "balance_mismatch"
+    ]
+  },
+  {
+    "id": "ozaukee-county",
+    "name": "Ozaukee County",
+    "type": "county",
+    "receipts_total": 1679320.58,
+    "disbursements_total": 315578.79,
+    "interest_total": 125924.19,
+    "balance_dec_2025": 1489665.74,
+    "pct_spent": 0.174812,
+    "by_year": {
+      "2022": {
+        "receipts": 490358.39,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 127432.0,
+        "disbursements": 0.0,
+        "interest": 27430.0
+      },
+      "2024": {
+        "receipts": 120098.44,
+        "disbursements": 83590.15,
+        "interest": 37570.68
+      },
+      "2025": {
+        "receipts": 941431.75,
+        "disbursements": 231988.64,
+        "interest": 60923.51
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226242-26-ozaukee/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "pepin-county",
+    "name": "Pepin County",
+    "type": "county",
+    "receipts_total": 89108.08,
+    "disbursements_total": 0.0,
+    "interest_total": 8279.04,
+    "balance_dec_2025": 97387.12,
+    "pct_spent": 0.0,
+    "by_year": {
+      "2022": {
+        "receipts": 25987.52,
+        "disbursements": 0.0,
+        "interest": 125.46
+      },
+      "2023": {
+        "receipts": 6765.21,
+        "disbursements": 0.0,
+        "interest": 1466.36
+      },
+      "2024": {
+        "receipts": 40961.08,
+        "disbursements": 0.0,
+        "interest": 3059.6
+      },
+      "2025": {
+        "receipts": 15394.27,
+        "disbursements": 0.0,
+        "interest": 3627.62
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226209-26-pepin/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_expenditure_text"
+    ]
+  },
+  {
+    "id": "pierce-county",
+    "name": "Pierce County",
+    "type": "county",
+    "receipts_total": 627006.95,
+    "disbursements_total": 150756.6,
+    "interest_total": 59743.75,
+    "balance_dec_2025": 535994.1,
+    "pct_spent": 0.219522,
+    "by_year": {
+      "2022": {
+        "receipts": 182867.6,
+        "disbursements": 10.0,
+        "interest": 868.68
+      },
+      "2023": {
+        "receipts": 47602.49,
+        "disbursements": 0.0,
+        "interest": 10278.72
+      },
+      "2024": {
+        "receipts": 288217.09,
+        "disbursements": 33956.81,
+        "interest": 23286.78
+      },
+      "2025": {
+        "receipts": 108319.77,
+        "disbursements": 116789.79,
+        "interest": 25309.57
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226264-26-pierce/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "pleasant-prairie-village",
+    "name": "Pleasant Prairie, village",
+    "type": "municipality",
+    "receipts_total": 95588.67,
+    "disbursements_total": 26834.04,
+    "interest_total": 3241.91,
+    "balance_dec_2025": 71996.54,
+    "pct_spent": 0.271516,
+    "by_year": {
+      "2022": {
+        "receipts": 27877.51,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 7257.22,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 43940.07,
+        "disbursements": 2766.05,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 16513.87,
+        "disbursements": 24067.99,
+        "interest": 3241.91
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28232293-26-pleasant-prairie/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "name_corrected_from_source"
+    ]
+  },
+  {
+    "id": "portage-county",
+    "name": "Portage County",
+    "type": "county",
+    "receipts_total": 1181087.23,
+    "disbursements_total": 0.0,
+    "interest_total": 0.0,
+    "balance_dec_2025": 1181087.23,
+    "pct_spent": 0.0,
+    "by_year": {
+      "2022": {
+        "receipts": 344452.67,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 89669.79,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 542920.54,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 204044.23,
+        "disbursements": 0.0,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226246-26-portage/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_interest_reported",
+      "no_expenditure_text"
+    ]
+  },
+  {
+    "id": "price-county",
+    "name": "Price County",
+    "type": "county",
+    "receipts_total": 241401.89,
+    "disbursements_total": 369.89,
+    "interest_total": 22571.76,
+    "balance_dec_2025": 263603.75,
+    "pct_spent": 0.001401,
+    "by_year": {
+      "2022": {
+        "receipts": 70402.53,
+        "disbursements": 156.25,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 18327.57,
+        "disbursements": 213.64,
+        "interest": 3994.43
+      },
+      "2024": {
+        "receipts": 110967.29,
+        "disbursements": 0.0,
+        "interest": 8236.09
+      },
+      "2025": {
+        "receipts": 41704.5,
+        "disbursements": 0.0,
+        "interest": 10341.24
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226205-26-price/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_expenditure_text"
+    ]
+  },
+  {
+    "id": "racine-county",
+    "name": "Racine County",
+    "type": "county",
+    "receipts_total": 5197431.86,
+    "disbursements_total": 47514.44,
+    "interest_total": 465809.2,
+    "balance_dec_2025": 5615726.84,
+    "pct_spent": 0.00839,
+    "by_year": {
+      "2022": {
+        "receipts": 1515780.78,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 394596.29,
+        "disbursements": 0.0,
+        "interest": 84427.09
+      },
+      "2024": {
+        "receipts": 2389148.24,
+        "disbursements": 0.0,
+        "interest": 170481.87
+      },
+      "2025": {
+        "receipts": 897906.55,
+        "disbursements": 47514.44,
+        "interest": 210900.24
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226245-26-racine/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "2025 balance corrected over email.",
+    "flags": []
+  },
+  {
+    "id": "richland-county",
+    "name": "Richland County",
+    "type": "county",
+    "receipts_total": 350191.24,
+    "disbursements_total": 8926.54,
+    "interest_total": 21015.02,
+    "balance_dec_2025": 362279.96,
+    "pct_spent": 0.024047,
+    "by_year": {
+      "2022": {
+        "receipts": 103005.05,
+        "disbursements": 0.0,
+        "interest": 307.6
+      },
+      "2023": {
+        "receipts": 23814.0,
+        "disbursements": 3000.0,
+        "interest": 5204.57
+      },
+      "2024": {
+        "receipts": 25271.68,
+        "disbursements": 0.0,
+        "interest": 5863.68
+      },
+      "2025": {
+        "receipts": 198100.51,
+        "disbursements": 5926.54,
+        "interest": 9639.17
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226235-26-richland/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Received corrected receipt totals from county.",
+    "flags": []
+  },
+  {
+    "id": "rock-county",
+    "name": "Rock County",
+    "type": "county",
+    "receipts_total": 4774573.46,
+    "disbursements_total": 1641324.51,
+    "interest_total": 391399.75,
+    "balance_dec_2025": 3524648.7,
+    "pct_spent": 0.317718,
+    "by_year": {
+      "2022": {
+        "receipts": 1392458.21,
+        "disbursements": 0.0,
+        "interest": 7511.42
+      },
+      "2023": {
+        "receipts": 362492.29,
+        "disbursements": 0.0,
+        "interest": 80407.31
+      },
+      "2024": {
+        "receipts": 2194769.27,
+        "disbursements": 783387.15,
+        "interest": 153877.54
+      },
+      "2025": {
+        "receipts": 824853.69,
+        "disbursements": 857937.36,
+        "interest": 149603.48
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226261-26-rock/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Corrected interest total from 2025 story. Received corrected balance and interest totals from county. Received 2022 interest total from county.",
+    "flags": []
+  },
+  {
+    "id": "rusk-county",
+    "name": "Rusk County",
+    "type": "county",
+    "receipts_total": 257603.39,
+    "disbursements_total": 0.0,
+    "interest_total": 30229.1,
+    "balance_dec_2025": 331227.37,
+    "pct_spent": 0.0,
+    "by_year": {
+      "2022": {
+        "receipts": 75127.55,
+        "disbursements": 0.0,
+        "interest": 308.14
+      },
+      "2023": {
+        "receipts": 19557.61,
+        "disbursements": 0.0,
+        "interest": 5042.18
+      },
+      "2024": {
+        "receipts": 118414.75,
+        "disbursements": 0.0,
+        "interest": 11792.94
+      },
+      "2025": {
+        "receipts": 44503.48,
+        "disbursements": 0.0,
+        "interest": 13085.84
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226227-26-rusk/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "balance_mismatch",
+      "no_expenditure_text"
+    ]
+  },
+  {
+    "id": "sauk-county",
+    "name": "Sauk County",
+    "type": "county",
+    "receipts_total": 1986300.35,
+    "disbursements_total": 129360.13,
+    "interest_total": 182815.57,
+    "balance_dec_2025": 2039755.79,
+    "pct_spent": 0.059637,
+    "by_year": {
+      "2022": {
+        "receipts": 579285.3,
+        "disbursements": 0.0,
+        "interest": 2650.7
+      },
+      "2023": {
+        "receipts": 150802.7,
+        "disbursements": 0.0,
+        "interest": 31895.67
+      },
+      "2024": {
+        "receipts": 913059.78,
+        "disbursements": 41947.84,
+        "interest": 68467.78
+      },
+      "2025": {
+        "receipts": 343152.57,
+        "disbursements": 87412.29,
+        "interest": 79801.42
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28269416-26-sauk-update/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Subtracted interest from receipt total when included.",
+    "flags": []
+  },
+  {
+    "id": "sawyer-county",
+    "name": "Sawyer County",
+    "type": "county",
+    "receipts_total": 417997.95,
+    "disbursements_total": 103280.25,
+    "interest_total": 0.0,
+    "balance_dec_2025": 314717.7,
+    "pct_spent": 0.247083,
+    "by_year": {
+      "2022": {
+        "receipts": 121905.07,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 31734.99,
+        "disbursements": 17310.66,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 192144.71,
+        "disbursements": 26643.15,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 72213.18,
+        "disbursements": 59326.44,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226249-26-sawyer/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_interest_reported"
+    ]
+  },
+  {
+    "id": "shawano-county",
+    "name": "Shawano County",
+    "type": "county",
+    "receipts_total": 677221.49,
+    "disbursements_total": 569174.15,
+    "interest_total": 13465.37,
+    "balance_dec_2025": 121512.71,
+    "pct_spent": 0.82407,
+    "by_year": {
+      "2022": {
+        "receipts": 197505.09,
+        "disbursements": 100156.54,
+        "interest": 7.38
+      },
+      "2023": {
+        "receipts": 51415.6,
+        "disbursements": 148831.02,
+        "interest": 59.49
+      },
+      "2024": {
+        "receipts": 311304.25,
+        "disbursements": 320186.59,
+        "interest": 8882.34
+      },
+      "2025": {
+        "receipts": 116996.55,
+        "disbursements": 0.0,
+        "interest": 4516.16
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226239-26-shawano/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "sheboygan-county",
+    "name": "Sheboygan County",
+    "type": "county",
+    "receipts_total": 2226618.64,
+    "disbursements_total": 569860.57,
+    "interest_total": 158920.54,
+    "balance_dec_2025": 1815678.6,
+    "pct_spent": 0.238881,
+    "by_year": {
+      "2022": {
+        "receipts": 666225.34,
+        "disbursements": 201250.0,
+        "interest": 1929.55
+      },
+      "2023": {
+        "receipts": 115646.62,
+        "disbursements": 53945.01,
+        "interest": 25313.6
+      },
+      "2024": {
+        "receipts": 1050093.23,
+        "disbursements": 137041.35,
+        "interest": 60476.52
+      },
+      "2025": {
+        "receipts": 394653.45,
+        "disbursements": 177624.21,
+        "interest": 71200.87
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226265-26-sheboygan/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "south-milwaukee-city",
+    "name": "South Milwaukee, city",
+    "type": "municipality",
+    "receipts_total": 151599.56,
+    "disbursements_total": 69558.53,
+    "interest_total": 11190.64,
+    "balance_dec_2025": 93231.67,
+    "pct_spent": 0.427289,
+    "by_year": {
+      "2022": {
+        "receipts": 45360.02,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 7873.81,
+        "disbursements": 0.0,
+        "interest": 2438.48
+      },
+      "2024": {
+        "receipts": 71495.72,
+        "disbursements": 0.0,
+        "interest": 4772.13
+      },
+      "2025": {
+        "receipts": 26870.01,
+        "disbursements": 69558.53,
+        "interest": 3980.03
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226248-26-south-milwaukee/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "st-croix-county",
+    "name": "St. Croix County",
+    "type": "county",
+    "receipts_total": 1697948.08,
+    "disbursements_total": 482290.59,
+    "interest_total": 21438.19,
+    "balance_dec_2025": 1237095.68,
+    "pct_spent": 0.280502,
+    "by_year": {
+      "2022": {
+        "receipts": 391702.71,
+        "disbursements": 16126.18,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 101970.17,
+        "disbursements": 128981.09,
+        "interest": 21438.19
+      },
+      "2024": {
+        "receipts": 972241.36,
+        "disbursements": 162729.59,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 232033.84,
+        "disbursements": 174453.73,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226241-26-st-croix/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "sturtevant-village",
+    "name": "Sturtevant, village",
+    "type": "municipality",
+    "receipts_total": 29322.7,
+    "disbursements_total": 0.0,
+    "interest_total": 0.0,
+    "balance_dec_2025": 29322.7,
+    "pct_spent": 0.0,
+    "by_year": {
+      "2022": {
+        "receipts": 8505.02,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 897.73,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 14881.8,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 5038.15,
+        "disbursements": 0.0,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28232309-26-sturtevant/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Received corrected 2023 disbursements from village official.",
+    "flags": [
+      "no_interest_reported",
+      "no_expenditure_text"
+    ]
+  },
+  {
+    "id": "superior-city",
+    "name": "Superior, city",
+    "type": "municipality",
+    "receipts_total": 144193.05,
+    "disbursements_total": 13680.0,
+    "interest_total": 0.0,
+    "balance_dec_2025": 130513.05,
+    "pct_spent": 0.094873,
+    "by_year": {
+      "2022": {
+        "receipts": 42052.51,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 10947.34,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 66282.47,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 24910.73,
+        "disbursements": 13680.0,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226189-26-superior/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_interest_reported"
+    ]
+  },
+  {
+    "id": "taylor-county",
+    "name": "Taylor County",
+    "type": "county",
+    "receipts_total": 257645.87,
+    "disbursements_total": 87304.92,
+    "interest_total": 3403.98,
+    "balance_dec_2025": 173744.93,
+    "pct_spent": 0.334438,
+    "by_year": {
+      "2022": {
+        "receipts": 75170.03,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 16035.12,
+        "disbursements": 4250.0,
+        "interest": 813.63
+      },
+      "2024": {
+        "receipts": 121937.24,
+        "disbursements": 36083.47,
+        "interest": 1372.92
+      },
+      "2025": {
+        "receipts": 44503.48,
+        "disbursements": 46971.45,
+        "interest": 1217.43
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226204-26-taylor/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "trempealeau-county",
+    "name": "Trempealeau County",
+    "type": "county",
+    "receipts_total": 445952.32,
+    "disbursements_total": 9650.15,
+    "interest_total": 37150.48,
+    "balance_dec_2025": 473452.65,
+    "pct_spent": 0.019975,
+    "by_year": {
+      "2022": {
+        "receipts": 151200.07,
+        "disbursements": 0.0,
+        "interest": 550.01
+      },
+      "2023": {
+        "receipts": 39361.23,
+        "disbursements": 9650.15,
+        "interest": 6488.92
+      },
+      "2024": {
+        "receipts": 225912.16,
+        "disbursements": 0.0,
+        "interest": 14400.49
+      },
+      "2025": {
+        "receipts": 29478.86,
+        "disbursements": 0.0,
+        "interest": 15711.06
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28232336-26-trempealeau/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "The distributor check in the amount of $32,850.64 was sent but was not received. The county asked for this check to be reissued but the 2025 balance does not include that receipt.",
+    "flags": []
+  },
+  {
+    "id": "union-grove-village",
+    "name": "Union Grove, village",
+    "type": "municipality",
+    "receipts_total": 12260.06,
+    "disbursements_total": 6731.16,
+    "interest_total": 430.87,
+    "balance_dec_2025": 5959.77,
+    "pct_spent": 0.530391,
+    "by_year": {
+      "2022": {
+        "receipts": 0.0,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 4168.53,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 4943.23,
+        "disbursements": 2826.8,
+        "interest": 189.09
+      },
+      "2025": {
+        "receipts": 3148.3,
+        "disbursements": 3904.36,
+        "interest": 241.78
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28302499-union-grove-26/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "vernon-county",
+    "name": "Vernon County",
+    "type": "county",
+    "receipts_total": 633263.13,
+    "disbursements_total": 210063.84,
+    "interest_total": 891.87,
+    "balance_dec_2025": 424091.16,
+    "pct_spent": 0.33125,
+    "by_year": {
+      "2022": {
+        "receipts": 226415.07,
+        "disbursements": 74270.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 39425.82,
+        "disbursements": 0.0,
+        "interest": 161.42
+      },
+      "2024": {
+        "receipts": 277295.7,
+        "disbursements": 74707.35,
+        "interest": 307.82
+      },
+      "2025": {
+        "receipts": 90126.54,
+        "disbursements": 61086.49,
+        "interest": 422.63
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28284682-vernon-26-use/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "Received corrected 2024 report numbers from county officials. Subtracted interest from receipts totals.",
+    "flags": []
+  },
+  {
+    "id": "vilas-county",
+    "name": "Vilas County",
+    "type": "county",
+    "receipts_total": 720902.73,
+    "disbursements_total": 51840.05,
+    "interest_total": 60190.95,
+    "balance_dec_2025": 729253.74,
+    "pct_spent": 0.066369,
+    "by_year": {
+      "2022": {
+        "receipts": 221130.0,
+        "disbursements": 0.0,
+        "interest": 780.21
+      },
+      "2023": {
+        "receipts": 38384.84,
+        "disbursements": 0.0,
+        "interest": 9956.32
+      },
+      "2024": {
+        "receipts": 330396.53,
+        "disbursements": 41667.0,
+        "interest": 22282.28
+      },
+      "2025": {
+        "receipts": 130991.36,
+        "disbursements": 10173.05,
+        "interest": 27172.14
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226233-26-vilas/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "walworth-county",
+    "name": "Walworth County",
+    "type": "county",
+    "receipts_total": 2484022.03,
+    "disbursements_total": 519402.12,
+    "interest_total": 229624.67,
+    "balance_dec_2025": 2194244.58,
+    "pct_spent": 0.191404,
+    "by_year": {
+      "2022": {
+        "receipts": 743242.88,
+        "disbursements": 0.0,
+        "interest": 3725.01
+      },
+      "2023": {
+        "receipts": 129015.7,
+        "disbursements": 26439.1,
+        "interest": 41225.11
+      },
+      "2024": {
+        "receipts": 1171486.95,
+        "disbursements": 76044.92,
+        "interest": 88577.81
+      },
+      "2025": {
+        "receipts": 440276.5,
+        "disbursements": 416918.1,
+        "interest": 96096.74
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226232-26-walworth/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "washburn-county",
+    "name": "Washburn County",
+    "type": "county",
+    "receipts_total": 299727.02,
+    "disbursements_total": 0.0,
+    "interest_total": 28395.28,
+    "balance_dec_2025": 328122.48,
+    "pct_spent": 0.0,
+    "by_year": {
+      "2022": {
+        "receipts": 87412.54,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 22755.7,
+        "disbursements": 0.0,
+        "interest": 5293.38
+      },
+      "2024": {
+        "receipts": 137778.0,
+        "disbursements": 0.0,
+        "interest": 10814.09
+      },
+      "2025": {
+        "receipts": 51780.78,
+        "disbursements": 0.0,
+        "interest": 12287.81
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28232597-26-washburn-use/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": "December 2024 balance does not include 2024 interest.",
+    "flags": [
+      "no_expenditure_text"
+    ]
+  },
+  {
+    "id": "washington-county",
+    "name": "Washington County",
+    "type": "county",
+    "receipts_total": 3225712.88,
+    "disbursements_total": 1001745.76,
+    "interest_total": 0.0,
+    "balance_dec_2025": 2223967.12,
+    "pct_spent": 0.31055,
+    "by_year": {
+      "2022": {
+        "receipts": 940747.99,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 244900.63,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 1482791.2,
+        "disbursements": 32870.24,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 557273.06,
+        "disbursements": 968875.52,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226236-26-washington/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_interest_reported"
+    ]
+  },
+  {
+    "id": "waukesha-county",
+    "name": "Waukesha County",
+    "type": "county",
+    "receipts_total": 9777588.0,
+    "disbursements_total": 2209321.0,
+    "interest_total": 547489.0,
+    "balance_dec_2025": 8115746.0,
+    "pct_spent": 0.213976,
+    "by_year": {
+      "2022": {
+        "receipts": 2851539.0,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 742328.0,
+        "disbursements": 533433.0,
+        "interest": 159396.0
+      },
+      "2024": {
+        "receipts": 4494548.0,
+        "disbursements": 577274.0,
+        "interest": 117339.0
+      },
+      "2025": {
+        "receipts": 1689173.0,
+        "disbursements": 1098614.0,
+        "interest": 270754.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226240-26-waukesha/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "balance_mismatch"
+    ]
+  },
+  {
+    "id": "waupaca-county",
+    "name": "Waupaca County",
+    "type": "county",
+    "receipts_total": 956799.58,
+    "disbursements_total": 267568.37,
+    "interest_total": 129128.84,
+    "balance_dec_2025": 818359.91,
+    "pct_spent": 0.246396,
+    "by_year": {
+      "2022": {
+        "receipts": 286335.14,
+        "disbursements": 0.0,
+        "interest": 1538.56
+      },
+      "2023": {
+        "receipts": 74540.32,
+        "disbursements": 71133.5,
+        "interest": 16263.51
+      },
+      "2024": {
+        "receipts": 408448.02,
+        "disbursements": 30454.86,
+        "interest": 74344.22
+      },
+      "2025": {
+        "receipts": 187476.1,
+        "disbursements": 165980.01,
+        "interest": 36982.55
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226259-26-waupaca/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "waushara-county",
+    "name": "Waushara County",
+    "type": "county",
+    "receipts_total": 374253.94,
+    "disbursements_total": 213313.81,
+    "interest_total": 6688.93,
+    "balance_dec_2025": 167629.06,
+    "pct_spent": 0.559963,
+    "by_year": {
+      "2022": {
+        "receipts": 109147.55,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 28413.88,
+        "disbursements": 69745.47,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 172036.53,
+        "disbursements": 91386.16,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 64655.98,
+        "disbursements": 52182.18,
+        "interest": 6688.93
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226213-26-waushara/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "wauwatosa-city",
+    "name": "Wauwatosa, city",
+    "type": "municipality",
+    "receipts_total": 500625.44,
+    "disbursements_total": 13923.22,
+    "interest_total": 35004.89,
+    "balance_dec_2025": 521707.11,
+    "pct_spent": 0.025994,
+    "by_year": {
+      "2022": {
+        "receipts": 146002.57,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 38008.18,
+        "disbursements": 0.0,
+        "interest": 5235.15
+      },
+      "2024": {
+        "receipts": 235361.96,
+        "disbursements": 0.0,
+        "interest": 6235.74
+      },
+      "2025": {
+        "receipts": 81252.73,
+        "disbursements": 13923.22,
+        "interest": 23534.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226263-26-wauwatosa/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "west-allis-city",
+    "name": "West Allis, city",
+    "type": "municipality",
+    "receipts_total": 612415.63,
+    "disbursements_total": 135604.33,
+    "interest_total": 52360.16,
+    "balance_dec_2025": 529171.46,
+    "pct_spent": 0.203985,
+    "by_year": {
+      "2022": {
+        "receipts": 178605.09,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 46495.45,
+        "disbursements": 982.73,
+        "interest": 9916.46
+      },
+      "2024": {
+        "receipts": 281514.37,
+        "disbursements": 55694.57,
+        "interest": 21048.03
+      },
+      "2025": {
+        "receipts": 105800.72,
+        "disbursements": 78927.03,
+        "interest": 21395.67
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226244-26-west-allis/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "winnebago-county",
+    "name": "Winnebago County",
+    "type": "county",
+    "receipts_total": 3525440.07,
+    "disbursements_total": 2472111.57,
+    "interest_total": 0.0,
+    "balance_dec_2025": 1053328.5,
+    "pct_spent": 0.701221,
+    "by_year": {
+      "2022": {
+        "receipts": 1028160.51,
+        "disbursements": 553908.84,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 267656.33,
+        "disbursements": 546691.58,
+        "interest": 0.0
+      },
+      "2024": {
+        "receipts": 1620569.39,
+        "disbursements": 674914.31,
+        "interest": 0.0
+      },
+      "2025": {
+        "receipts": 609053.84,
+        "disbursements": 696596.84,
+        "interest": 0.0
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226199-26-winnebago/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": [
+      "no_interest_reported"
+    ]
+  },
+  {
+    "id": "wood-county",
+    "name": "Wood County",
+    "type": "county",
+    "receipts_total": 1329654.55,
+    "disbursements_total": 1331113.92,
+    "interest_total": 14803.37,
+    "balance_dec_2025": 13344.0,
+    "pct_spent": 0.990075,
+    "by_year": {
+      "2022": {
+        "receipts": 397845.2,
+        "disbursements": 0.0,
+        "interest": 409.35
+      },
+      "2023": {
+        "receipts": 69059.9,
+        "disbursements": 0.0,
+        "interest": 3955.37
+      },
+      "2024": {
+        "receipts": 627076.96,
+        "disbursements": 968699.18,
+        "interest": 8145.54
+      },
+      "2025": {
+        "receipts": 235672.49,
+        "disbursements": 362414.74,
+        "interest": 2293.11
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226187-26-wood/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  },
+  {
+    "id": "yorkville-village",
+    "name": "Yorkville, village",
+    "type": "municipality",
+    "receipts_total": 3233.42,
+    "disbursements_total": 1878.74,
+    "interest_total": 118.06,
+    "balance_dec_2025": 1472.74,
+    "pct_spent": 0.56057,
+    "by_year": {
+      "2022": {
+        "receipts": 945.01,
+        "disbursements": 0.0,
+        "interest": 0.0
+      },
+      "2023": {
+        "receipts": 246.01,
+        "disbursements": 0.0,
+        "interest": 40.6
+      },
+      "2024": {
+        "receipts": 1533.81,
+        "disbursements": 1344.3,
+        "interest": 20.65
+      },
+      "2025": {
+        "receipts": 508.59,
+        "disbursements": 534.44,
+        "interest": 56.81
+      }
+    },
+    "report_url": "https://www.documentcloud.org/documents/28226223-26-yorkville/",
+    "source": "Wisconsin Watch tracker",
+    "source_notes": null,
+    "flags": []
+  }
+]

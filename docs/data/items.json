@@ -1,0 +1,4258 @@
+[
+  {
+    "county_id": "adams-county",
+    "county_name": "Adams County",
+    "period_label": "2025",
+    "text": "First responder wellness program",
+    "amount": 14875.0,
+    "category": "staff_admin",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "ashland-county",
+    "county_name": "Ashland County",
+    "period_label": "2025",
+    "text": "Community based residential facilities, counseling and room and board",
+    "amount": null,
+    "category": "treatment_residential",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "barron-county",
+    "county_name": "Barron County",
+    "period_label": "2025",
+    "text": "Co-responder program",
+    "amount": 84499.0,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "barron-county",
+    "county_name": "Barron County",
+    "period_label": "2022-2024",
+    "text": "Co-responder program for substance use and/or mental health related 911 calls",
+    "amount": null,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "bayfield-county",
+    "county_name": "Bayfield County",
+    "period_label": "2025",
+    "text": "Botvin LifeSkills school-based prevention program, medication disposal event, overdose reversal medication and trainings, harm reduction vending machine",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "multi_item_text"
+    ]
+  },
+  {
+    "county_id": "bayfield-county",
+    "county_name": "Bayfield County",
+    "period_label": "2025",
+    "text": "Settlement funds partially supported a public health nurse, nursing manager and a clerk who work with opioid settlement programs",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "bayfield-county",
+    "county_name": "Bayfield County",
+    "period_label": "2022-2024",
+    "text": "Community Survey",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "bayfield-county",
+    "county_name": "Bayfield County",
+    "period_label": "2022-2024",
+    "text": "School based prevention programming planning and training",
+    "amount": null,
+    "category": "staff_admin",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "bayfield-county",
+    "county_name": "Bayfield County",
+    "period_label": "2022-2024",
+    "text": "Drug disposal programs",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "bayfield-county",
+    "county_name": "Bayfield County",
+    "period_label": "2022-2024",
+    "text": "Partially funded a public health nurse position",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "brown-county",
+    "county_name": "Brown County",
+    "period_label": "2025",
+    "text": "Sober living and recovery house styles",
+    "amount": 24061.0,
+    "category": "housing_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "brown-county",
+    "county_name": "Brown County",
+    "period_label": "2025",
+    "text": "clinical social worker/professional counselor",
+    "amount": 89158.0,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "brown-county",
+    "county_name": "Brown County",
+    "period_label": "2025",
+    "text": "detoxification services",
+    "amount": 21416.0,
+    "category": "treatment_residential",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "brown-county",
+    "county_name": "Brown County",
+    "period_label": "2025",
+    "text": "two fully outfitted, full-time patrol drug task force officers",
+    "amount": 299116.0,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "brown-county",
+    "county_name": "Brown County",
+    "period_label": "2022-2024",
+    "text": "Two full-time Drug Task Force officers dedicated to opioid mitigation",
+    "amount": null,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "brown-county",
+    "county_name": "Brown County",
+    "period_label": "2022-2024",
+    "text": "Detoxification services",
+    "amount": null,
+    "category": "treatment_residential",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "brown-county",
+    "county_name": "Brown County",
+    "period_label": "2022-2024",
+    "text": "Clinical outpatient services",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "brown-county",
+    "county_name": "Brown County",
+    "period_label": "2022-2024",
+    "text": "A Clinical social worker/licensed professional counselor in the county Health and Human Services Department",
+    "amount": null,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "brown-county",
+    "county_name": "Brown County",
+    "period_label": "2022-2024",
+    "text": "Sober living",
+    "amount": null,
+    "category": "housing_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "burnett-county",
+    "county_name": "Burnett County",
+    "period_label": "2025",
+    "text": "Bank fees for wire transfers",
+    "amount": 105.0,
+    "category": "staff_admin",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "burnett-county",
+    "county_name": "Burnett County",
+    "period_label": "2022-2024",
+    "text": "Costs to attend planning meetings for settlement funds (2022)",
+    "amount": null,
+    "category": "staff_admin",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "calumet-county",
+    "county_name": "Calumet County",
+    "period_label": "2025",
+    "text": "Counseling in the community and in jail, partially funded a alcohol and other drug abuse counselor",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "calumet-county",
+    "county_name": "Calumet County",
+    "period_label": "2022-2024",
+    "text": "None specified",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "chippewa-county",
+    "county_name": "Chippewa County",
+    "period_label": "2025",
+    "text": "First responder training",
+    "amount": 4711.0,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "chippewa-county",
+    "county_name": "Chippewa County",
+    "period_label": "2025",
+    "text": "peer support",
+    "amount": 36400.0,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "chippewa-county",
+    "county_name": "Chippewa County",
+    "period_label": "2025",
+    "text": "overdose fatality review",
+    "amount": 20307.0,
+    "category": "medical_examiner_epi",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "chippewa-county",
+    "county_name": "Chippewa County",
+    "period_label": "2025",
+    "text": "alcohol and other drug abuse treatment in jail",
+    "amount": 26320.0,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "chippewa-county",
+    "county_name": "Chippewa County",
+    "period_label": "2025",
+    "text": "reentry services",
+    "amount": 7138.0,
+    "category": "reentry",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "chippewa-county",
+    "county_name": "Chippewa County",
+    "period_label": "2022-2024",
+    "text": "Four TruNarc handheld narcotics analyzers for the Sheriff's Department, peer support, overdose fatality review and harm reduction efforts",
+    "amount": null,
+    "category": "medical_examiner_epi",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "chippewa-county",
+    "county_name": "Chippewa County",
+    "period_label": "2022-2024",
+    "text": "Drug deactivation kits, Narcan supplies and training",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "chippewa-county",
+    "county_name": "Chippewa County",
+    "period_label": "2022-2024",
+    "text": "Fentanyl-related supplies for law enforcement and jail staff",
+    "amount": null,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "chippewa-county",
+    "county_name": "Chippewa County",
+    "period_label": "2022-2024",
+    "text": "Training conferences for sheriff's office peer support group",
+    "amount": null,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "clark-county",
+    "county_name": "Clark County",
+    "period_label": "2025",
+    "text": "Speakers and school curriculum",
+    "amount": 3843.0,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "clark-county",
+    "county_name": "Clark County",
+    "period_label": "2025",
+    "text": "sharps collection kiosks",
+    "amount": 1841.0,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "clark-county",
+    "county_name": "Clark County",
+    "period_label": "2025",
+    "text": "posters and coasters with resource phone numbers",
+    "amount": 3590.0,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "clark-county",
+    "county_name": "Clark County",
+    "period_label": "2025",
+    "text": "pole cameras for law enforcement",
+    "amount": 53535.0,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "clark-county",
+    "county_name": "Clark County",
+    "period_label": "2022-2024",
+    "text": "Sharps collection kiosks",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "clark-county",
+    "county_name": "Clark County",
+    "period_label": "2022-2024",
+    "text": "Trunarc kits to check for fentanyl and other drugs",
+    "amount": null,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "clark-county",
+    "county_name": "Clark County",
+    "period_label": "2022-2024",
+    "text": "Opioid training and lodging for law enforcement posters and coasters",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "clark-county",
+    "county_name": "Clark County",
+    "period_label": "2022-2024",
+    "text": "Scholarships to assist individuals with accessing treatment including transportation",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "clark-county",
+    "county_name": "Clark County",
+    "period_label": "2022-2024",
+    "text": "Speakers and school-based curriculum",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "columbia-county",
+    "county_name": "Columbia County",
+    "period_label": "2025",
+    "text": "Drug treatment court, AppArmor for Recover Columbia County app, prevention and harm reduction coalition, sober living, SMART recovery meetings, inpatient treatment",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "multi_item_text"
+    ]
+  },
+  {
+    "county_id": "columbia-county",
+    "county_name": "Columbia County",
+    "period_label": "2022-2024",
+    "text": "Adult Drug Treatment Court",
+    "amount": null,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "columbia-county",
+    "county_name": "Columbia County",
+    "period_label": "2022-2024",
+    "text": "The Recover Columbia County app through AppArmor",
+    "amount": null,
+    "category": "data_analytics",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "crawford-county",
+    "county_name": "Crawford County",
+    "period_label": "2025",
+    "text": "Peer recovery drop-in center",
+    "amount": 20000.0,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "crawford-county",
+    "county_name": "Crawford County",
+    "period_label": "2022-2024",
+    "text": "Drug take-back box for Prairie du Chien",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "douglas-county",
+    "county_name": "Douglas County",
+    "period_label": "2025",
+    "text": "Recovery and harm reduction services for people leaving county jail, staff position to offer release planning and treatment support services in county jail, peer support respite home",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "douglas-county",
+    "county_name": "Douglas County",
+    "period_label": "2022-2024",
+    "text": "Re-entry specialist in county jail",
+    "amount": null,
+    "category": "reentry",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "dunn-county",
+    "county_name": "Dunn County",
+    "period_label": "2025",
+    "text": "Arbor place for treatment",
+    "amount": 30410.0,
+    "category": "treatment_residential",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "dunn-county",
+    "county_name": "Dunn County",
+    "period_label": "2025",
+    "text": "Partial funding for jail substance abuse counselor, nurse family partnership program and county overdose fatality review team",
+    "amount": 36725.0,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "phrase_may_include_unpriced_items"
+    ]
+  },
+  {
+    "county_id": "dunn-county",
+    "county_name": "Dunn County",
+    "period_label": "2025",
+    "text": "inpatient and outpatient treatment for people using opioids, harm reduction supplies (educational materials, fentanyl test strips, overdose reversal medications and more), harm reduction vending machine",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "multi_item_text"
+    ]
+  },
+  {
+    "county_id": "eau-claire-county",
+    "county_name": "Eau Claire County",
+    "period_label": "2025",
+    "text": "Education and awareness about county resources, overdose reversal medication and fentanyl test strip distribution and trainings, overdose prevention and risk reduction education, sharps containers, medication lockboxes",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "multi_item_text"
+    ]
+  },
+  {
+    "county_id": "eau-claire-county",
+    "county_name": "Eau Claire County",
+    "period_label": "2022-2024",
+    "text": "Community sharps disposal containers",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "eau-claire-county",
+    "county_name": "Eau Claire County",
+    "period_label": "2022-2024",
+    "text": "Peer support training",
+    "amount": null,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "eau-claire-county",
+    "county_name": "Eau Claire County",
+    "period_label": "2022-2024",
+    "text": "Narcan and Fentanyl test strips",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "eau-claire-county",
+    "county_name": "Eau Claire County",
+    "period_label": "2022-2024",
+    "text": "Public Health Specialist",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "eau-claire-county",
+    "county_name": "Eau Claire County",
+    "period_label": "2022-2024",
+    "text": "Project management position",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "florence-county",
+    "county_name": "Florence County",
+    "period_label": "2025",
+    "text": "DARE officer training",
+    "amount": 1450.0,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "florence-county",
+    "county_name": "Florence County",
+    "period_label": "2022-2024",
+    "text": "Opioid prevention effort at local ski hill event",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "fond-du-lac-county",
+    "county_name": "Fond du Lac County",
+    "period_label": "2025",
+    "text": "Wellness and support checks",
+    "amount": 39110.0,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "fond-du-lac-county",
+    "county_name": "Fond du Lac County",
+    "period_label": "2025",
+    "text": "peer support specialist",
+    "amount": 47282.0,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "fond-du-lac-county",
+    "county_name": "Fond du Lac County",
+    "period_label": "2025",
+    "text": "drug court",
+    "amount": 90000.0,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "fond-du-lac-county",
+    "county_name": "Fond du Lac County",
+    "period_label": "2025",
+    "text": "mobile crisis/crisis intervention",
+    "amount": 165000.0,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "fond-du-lac-county",
+    "county_name": "Fond du Lac County",
+    "period_label": "2025",
+    "text": "care portal, foster care support",
+    "amount": 19080.0,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "fond-du-lac-county",
+    "county_name": "Fond du Lac County",
+    "period_label": "2025",
+    "text": "opioid investigation detective",
+    "amount": 83989.0,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "fond-du-lac-county",
+    "county_name": "Fond du Lac County",
+    "period_label": "2025",
+    "text": "medication-assisted treatment",
+    "amount": 9940.0,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "forest-county",
+    "county_name": "Forest County",
+    "period_label": "2022-2024",
+    "text": "Laptop, projector, and related equipment for Sheriff's Office anti-Opioid presentations",
+    "amount": null,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "forest-county",
+    "county_name": "Forest County",
+    "period_label": "2022-2024",
+    "text": "School-based prevention program and drug prevention booths. \"Challenge Coins\" for community outreach and stigma reduction",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "forest-county",
+    "county_name": "Forest County",
+    "period_label": "2022-2024",
+    "text": "Donation to nonprofit that runs a K9 unit in county schools",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "forest-county",
+    "county_name": "Forest County",
+    "period_label": "2022-2024",
+    "text": "Food and drinks at school-based prevention program graduation",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "forest-county",
+    "county_name": "Forest County",
+    "period_label": "2022-2024",
+    "text": "Upgrades to first responder radio system",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "forest-county",
+    "county_name": "Forest County",
+    "period_label": "2022-2024",
+    "text": "Computer, vehicle dock, power supply and adapter plate for drug task force squad car",
+    "amount": null,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "forest-county",
+    "county_name": "Forest County",
+    "period_label": "2022-2024",
+    "text": "T-shirts for school-based prevention program Graduation ceremony meal for school-based prevention program",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "grant-county",
+    "county_name": "Grant County",
+    "period_label": "2025",
+    "text": "Sheriff's office wellness initiative, drug treatment court staff training",
+    "amount": null,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "grant-county",
+    "county_name": "Grant County",
+    "period_label": "2022-2024",
+    "text": "Use assessment",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "grant-county",
+    "county_name": "Grant County",
+    "period_label": "2022-2024",
+    "text": "Transitional housing support through Southwest Community Action Program",
+    "amount": null,
+    "category": "housing_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "grant-county",
+    "county_name": "Grant County",
+    "period_label": "2022-2024",
+    "text": "Residential treatment funding, staff training and technology needs through Unified Community Services",
+    "amount": null,
+    "category": "treatment_residential",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "green-county",
+    "county_name": "Green County",
+    "period_label": "2025",
+    "text": "Treatment court",
+    "amount": 96577.0,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "green-county",
+    "county_name": "Green County",
+    "period_label": "2025",
+    "text": "first responder wellness checks",
+    "amount": 8900.0,
+    "category": "staff_admin",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "green-county",
+    "county_name": "Green County",
+    "period_label": "2022-2024",
+    "text": "Treatment Court",
+    "amount": null,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "green-county",
+    "county_name": "Green County",
+    "period_label": "2022-2024",
+    "text": "First responder mental health support",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "iowa-county",
+    "county_name": "Iowa County",
+    "period_label": "2025",
+    "text": "Newspaper ads for settlement grant applications were being accepted, wellness services for first responders - annual visits with psychologists, school based prevention through Turning the Page LLC, advertisements and resource magnets directing people to county resources, grants to Family Resource Center of Iowa County, Opportunity House in Dodgeville, Recovery Group Clubhouse and Girls on the Run",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "multi_item_text"
+    ]
+  },
+  {
+    "county_id": "iowa-county",
+    "county_name": "Iowa County",
+    "period_label": "2022-2024",
+    "text": "Equipment and technology for treatment staff at Unified Community Services",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "iowa-county",
+    "county_name": "Iowa County",
+    "period_label": "2022-2024",
+    "text": "Residential treatment through Unified Community Services",
+    "amount": null,
+    "category": "treatment_residential",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "iowa-county",
+    "county_name": "Iowa County",
+    "period_label": "2022-2024",
+    "text": "Recovery capital, motivational incentives, and compensation for peer support efforts at Opportunity House",
+    "amount": null,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "iowa-county",
+    "county_name": "Iowa County",
+    "period_label": "2022-2024",
+    "text": "Drug addiction speaker at a high school",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "iowa-county",
+    "county_name": "Iowa County",
+    "period_label": "2022-2024",
+    "text": "Narcan training for county staff",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "iowa-county",
+    "county_name": "Iowa County",
+    "period_label": "2022-2024",
+    "text": "Transportation for people in recovery programs",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "iowa-county",
+    "county_name": "Iowa County",
+    "period_label": "2022-2024",
+    "text": "Drug treatment court",
+    "amount": null,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "iowa-county",
+    "county_name": "Iowa County",
+    "period_label": "2022-2024",
+    "text": "Family Resource center (peer support and child care)",
+    "amount": null,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "iowa-county",
+    "county_name": "Iowa County",
+    "period_label": "2022-2024",
+    "text": "Iowa County Health Department website",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "iowa-county",
+    "county_name": "Iowa County",
+    "period_label": "2022-2024",
+    "text": "Behavioral Health Partnership",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "iowa-county",
+    "county_name": "Iowa County",
+    "period_label": "2022-2024",
+    "text": "Mental health resources for Sheriff's Office employees",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "iowa-county",
+    "county_name": "Iowa County",
+    "period_label": "2022-2024",
+    "text": "School-based prevention program",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "iowa-county",
+    "county_name": "Iowa County",
+    "period_label": "2022-2024",
+    "text": "Incentives and housing support for drug treatment court participants",
+    "amount": null,
+    "category": "housing_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "iowa-county",
+    "county_name": "Iowa County",
+    "period_label": "2022-2024",
+    "text": "Narcan and other harm reduction supplied for vending machines",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "iron-county",
+    "county_name": "Iron County",
+    "period_label": "2025",
+    "text": "Naloxone education and training, prevention planning and trainings",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "iron-county",
+    "county_name": "Iron County",
+    "period_label": "2022-2024",
+    "text": "Naloxone planning and prevention training",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "jackson-county",
+    "county_name": "Jackson County",
+    "period_label": "2025",
+    "text": "Partial funding for a behavioral health coordinator in the sheriff's office and jail",
+    "amount": 68286.0,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "jefferson-county",
+    "county_name": "Jefferson County",
+    "period_label": "2025",
+    "text": "Integrated outpatient behavioral health clinic with a full-time outreach support professional, jail reentry coordinator",
+    "amount": null,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "jefferson-county",
+    "county_name": "Jefferson County",
+    "period_label": "2022-2024",
+    "text": "County case manager position",
+    "amount": null,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "jefferson-county",
+    "county_name": "Jefferson County",
+    "period_label": "2022-2024",
+    "text": "Approved a future position responsible for jail reentry coordination, prevention, and anti-stigma efforts",
+    "amount": null,
+    "category": "reentry",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "juneau-county",
+    "county_name": "Juneau County",
+    "period_label": "2025",
+    "text": "Foster care expenses for children due to custodial opioid use",
+    "amount": 30000.0,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "juneau-county",
+    "county_name": "Juneau County",
+    "period_label": "2025",
+    "text": "overdose reversal medication distribution and trainings",
+    "amount": 16791.0,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "juneau-county",
+    "county_name": "Juneau County",
+    "period_label": "2025",
+    "text": "Hakes Wellness client visits",
+    "amount": 9243.0,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "juneau-county",
+    "county_name": "Juneau County",
+    "period_label": "2025",
+    "text": "Sheriff's app with educational information on opioids",
+    "amount": 13033.0,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "juneau-county",
+    "county_name": "Juneau County",
+    "period_label": "2022-2024",
+    "text": "Treatment for a someone with opioid use disorder and co-occurring mental health issues",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "juneau-county",
+    "county_name": "Juneau County",
+    "period_label": "2022-2024",
+    "text": "Foster care for families impacted by opioid use",
+    "amount": null,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "juneau-county",
+    "county_name": "Juneau County",
+    "period_label": "2022-2024",
+    "text": "Preventions efforts (drug take back programs, lock boxes, disposal bags, overdose fatality review, fentanyl test strips)",
+    "amount": null,
+    "category": "medical_examiner_epi",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "multi_item_text"
+    ]
+  },
+  {
+    "county_id": "juneau-county",
+    "county_name": "Juneau County",
+    "period_label": "2022-2024",
+    "text": "Narcan trainings and distribution",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "kenosha-county",
+    "county_name": "Kenosha County",
+    "period_label": "2025",
+    "text": "Overdose awareness and prevention campaign, high school prevention program, substance use and mental health treatment to uninsured and underinsured residents, certified peer support specialist, embedded social worker in county sheriff's office and Pleasant Prairie Police Department, substance use navigator position, school prevention specialist, behavioral health director",
+    "amount": 44252.0,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "phrase_may_include_unpriced_items"
+    ]
+  },
+  {
+    "county_id": "kenosha-county",
+    "county_name": "Kenosha County",
+    "period_label": "2025",
+    "text": "staff development training, Pro-E lab supplies to assist with medication-assisted treatment, liability insurance",
+    "amount": 2894.0,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "phrase_may_include_unpriced_items"
+    ]
+  },
+  {
+    "county_id": "kenosha-county",
+    "county_name": "Kenosha County",
+    "period_label": "2022-2024",
+    "text": "Peer specialist training",
+    "amount": null,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "kenosha-county",
+    "county_name": "Kenosha County",
+    "period_label": "2022-2024",
+    "text": "School based prevention materials and staffer",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "kenosha-county",
+    "county_name": "Kenosha County",
+    "period_label": "2022-2024",
+    "text": "Fentanyl detection advice for public health department",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "kenosha-county",
+    "county_name": "Kenosha County",
+    "period_label": "2022-2024",
+    "text": "Research around spending needs",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "kenosha-county",
+    "county_name": "Kenosha County",
+    "period_label": "2022-2024",
+    "text": "Expanding opioid and substance use disorder treatment",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "kenosha-county",
+    "county_name": "Kenosha County",
+    "period_label": "2022-2024",
+    "text": "High school prevention program",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "kenosha-county",
+    "county_name": "Kenosha County",
+    "period_label": "2022-2024",
+    "text": "Prevention specialist and Behavioral Health Director",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "kenosha-county",
+    "county_name": "Kenosha County",
+    "period_label": "2022-2024",
+    "text": "Staff development training",
+    "amount": null,
+    "category": "staff_admin",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "kenosha-county",
+    "county_name": "Kenosha County",
+    "period_label": "2022-2024",
+    "text": "Pro-E lab supplies for opioid use disorder treatment",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "kenosha-county",
+    "county_name": "Kenosha County",
+    "period_label": "2022-2024",
+    "text": "Drug detection devices for Sheriff's Office",
+    "amount": null,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "kewaunee-county",
+    "county_name": "Kewaunee County",
+    "period_label": "2025",
+    "text": "First responder wellness support",
+    "amount": 3550.0,
+    "category": "staff_admin",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "kewaunee-county",
+    "county_name": "Kewaunee County",
+    "period_label": "2022-2024",
+    "text": "Wellness check for first responders",
+    "amount": null,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "langlade-county",
+    "county_name": "Langlade County",
+    "period_label": "2025",
+    "text": "Recovery services including peer support, jail programming and SMART recovery, overdose reversal medication promotion and distribution, public health vending machines, high school prevention programming",
+    "amount": null,
+    "category": "jail_moud",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "multi_item_text"
+    ]
+  },
+  {
+    "county_id": "langlade-county",
+    "county_name": "Langlade County",
+    "period_label": "2022-2024",
+    "text": "Community event focused on addiction and recovery",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "lincoln-county",
+    "county_name": "Lincoln County",
+    "period_label": "2025",
+    "text": "Community needs assessment, trainings, opioid task force coordinator",
+    "amount": null,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "lincoln-county",
+    "county_name": "Lincoln County",
+    "period_label": "2022-2024",
+    "text": "Narcan",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "lincoln-county",
+    "county_name": "Lincoln County",
+    "period_label": "2022-2024",
+    "text": "Community Substance Abuse Needs Assessment",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "manitowoc-county",
+    "county_name": "Manitowoc County",
+    "period_label": "2025",
+    "text": "A wide range of evidence-based treatment, basic needs and housing assistance, peer support, recovery coaching, sober living",
+    "amount": null,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "multi_item_text"
+    ]
+  },
+  {
+    "county_id": "manitowoc-county",
+    "county_name": "Manitowoc County",
+    "period_label": "2022-2024",
+    "text": "Human Services department and opioid response and mitigation programming",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "marathon-county",
+    "county_name": "Marathon County",
+    "period_label": "2022-2024",
+    "text": "GAP analysis",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "marinette-county",
+    "county_name": "Marinette County",
+    "period_label": "2025",
+    "text": "Diversion program",
+    "amount": 34393.0,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "marinette-county",
+    "county_name": "Marinette County",
+    "period_label": "2025",
+    "text": "ADAPT mental health clinic",
+    "amount": 75000.0,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "marinette-county",
+    "county_name": "Marinette County",
+    "period_label": "2025",
+    "text": "crisis intervention",
+    "amount": 25000.0,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "marinette-county",
+    "county_name": "Marinette County",
+    "period_label": "2025",
+    "text": "overdose fatality review team",
+    "amount": 10942.0,
+    "category": "medical_examiner_epi",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "marinette-county",
+    "county_name": "Marinette County",
+    "period_label": "2025",
+    "text": "overdose death investigation training",
+    "amount": 2700.0,
+    "category": "medical_examiner_epi",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "marinette-county",
+    "county_name": "Marinette County",
+    "period_label": "2025",
+    "text": "sustained the following positions with opioid settlement dollars: diversion coordinator, seven mental health therapists, community services manager, inpatient/crisis case manager, crisis coordinator",
+    "amount": null,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "multi_item_text"
+    ]
+  },
+  {
+    "county_id": "marinette-city",
+    "county_name": "Marinette, city",
+    "period_label": "2025",
+    "text": "Police officer training on how to deal with trauma from the job",
+    "amount": 1298.0,
+    "category": "staff_admin",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "marinette-city",
+    "county_name": "Marinette, city",
+    "period_label": "2022-2024",
+    "text": "Diversion program",
+    "amount": null,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "marinette-city",
+    "county_name": "Marinette, city",
+    "period_label": "2022-2024",
+    "text": "Opioid Use Disorder treatment room and board",
+    "amount": null,
+    "category": "treatment_residential",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "marquette-county",
+    "county_name": "Marquette County",
+    "period_label": "2025",
+    "text": "Peer support and full-time peer support specialist positions, education and training for those in recovery, subsidized housing for people in recovery, UW Extension AmeriCorps school drug prevention educator",
+    "amount": null,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "multi_item_text"
+    ]
+  },
+  {
+    "county_id": "marquette-county",
+    "county_name": "Marquette County",
+    "period_label": "2022-2024",
+    "text": "Narcan and Narcan training",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "marquette-county",
+    "county_name": "Marquette County",
+    "period_label": "2022-2024",
+    "text": "K-9 unit for drug task force",
+    "amount": null,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "marquette-county",
+    "county_name": "Marquette County",
+    "period_label": "2022-2024",
+    "text": "Library laptops to promote drug treatment education and behavioral health programs",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "marquette-county",
+    "county_name": "Marquette County",
+    "period_label": "2022-2024",
+    "text": "Part-time addiction professional for incarcerated clients",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "marquette-county",
+    "county_name": "Marquette County",
+    "period_label": "2022-2024",
+    "text": "AmeriCorps providing school-based prevention programming",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "marquette-county",
+    "county_name": "Marquette County",
+    "period_label": "2022-2024",
+    "text": "Harbor Recovery Center counseling services",
+    "amount": null,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "menominee-county",
+    "county_name": "Menominee County",
+    "period_label": "2025",
+    "text": "Training for sheriff's offices, room and board for people with substance abuse issues",
+    "amount": null,
+    "category": "treatment_residential",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "menominee-county",
+    "county_name": "Menominee County",
+    "period_label": "2022-2024",
+    "text": "\"Sheriff - training.\" \"HSD - Room and board.\"",
+    "amount": null,
+    "category": "treatment_residential",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2023-2025",
+    "text": "Aging and disabilities serves opioid prevention project",
+    "amount": 843661.0,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2023-2025",
+    "text": "community grants to organizations and collaboratives that target hisorically underserved groups",
+    "amount": 4845607.0,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2023-2025",
+    "text": "harm reduction data analytics",
+    "amount": 719909.0,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2023-2025",
+    "text": "harm reduction kits for emergency responders",
+    "amount": 97906.0,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2023-2025",
+    "text": "harm reduction supplies",
+    "amount": 910889.0,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2023-2025",
+    "text": "two treatment and resource navigators serving people experiencing homelessness",
+    "amount": 481570.0,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2023-2025",
+    "text": "autopsy carts",
+    "amount": 19450.0,
+    "category": "medical_examiner_epi",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2023-2025",
+    "text": "medical examiner staff",
+    "amount": 2290541.0,
+    "category": "medical_examiner_epi",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2023-2025",
+    "text": "medication-assisted treatment in county jail",
+    "amount": 2514909.0,
+    "category": "jail_moud",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2023-2025",
+    "text": "emergency management opioid educator",
+    "amount": 407798.0,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2023-2025",
+    "text": "medication-assisted treatment through emergency medical services",
+    "amount": 536550.0,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2023-2025",
+    "text": "portable body cooler",
+    "amount": 192448.0,
+    "category": "medical_examiner_epi",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2023-2025",
+    "text": "residential substance abuse treatment",
+    "amount": 1071140.0,
+    "category": "treatment_residential",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2023-2025",
+    "text": "prevention and intervention services in juvenile detention",
+    "amount": 799190.0,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2024-2026",
+    "text": "community paramedica coverage",
+    "amount": 2373988.0,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2024-2026",
+    "text": "grief outreach and informed care",
+    "amount": 630295.0,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2024-2026",
+    "text": "overdose prediction model",
+    "amount": 29000.0,
+    "category": "data_analytics",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2024-2026",
+    "text": "pre- and post-incarceration treatment",
+    "amount": 1066966.0,
+    "category": "reentry",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2024-2026",
+    "text": "data-driven education work in Black and Brown communities",
+    "amount": 1421026.0,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2024-2026",
+    "text": "harm reduction beds",
+    "amount": 426000.0,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2024-2026",
+    "text": "treatment services expansion",
+    "amount": 2565352.0,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "program_commitment_overlapping_periods"
+    ]
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2022-2024",
+    "text": "Recovery Housing",
+    "amount": null,
+    "category": "housing_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2022-2024",
+    "text": "Community Outreach Specialist",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2022-2024",
+    "text": "Public Health Nurses and Social workers",
+    "amount": null,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-county",
+    "county_name": "Milwaukee County",
+    "period_label": "2022-2024",
+    "text": "Community Medical Services co-responding to non-fatal overdoses",
+    "amount": null,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2025",
+    "text": "Health department planning and coordination",
+    "amount": 101323.0,
+    "category": "staff_admin",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2025",
+    "text": "Mobile integrated healthcare team which oversees the Milwaukee overdose response initiatives, overdose response initiatives supervisor, assistant and two practitioners, health department's overdose risk reduction supplies and prevention efforts, peer support specialists, building lease \"Fiebrantz\", long term facility planning, \"other equipment\", treatment coordination for people leaving Milwaukee's Community Reintegration Center, community medical services co-responding to non-fatal overdoses",
+    "amount": null,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "multi_item_text"
+    ]
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Grants to community-based organizations serving historically underserved and/or adversely affected groups for addiction-related services",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Harm reduction data analytics",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Harm reduction kits for emergency responders",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Harm reduction supplies",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Homeless outreach project",
+    "amount": null,
+    "category": "housing_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Five autopsy carts",
+    "amount": null,
+    "category": "medical_examiner_epi",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Three positions in the Medical Examiner's office",
+    "amount": null,
+    "category": "medical_examiner_epi",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Medication-assisted treatment for incarcerated individuals",
+    "amount": null,
+    "category": "jail_moud",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Narcan deployment and education through the Sheriff's Office",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Emergency medical services opioid educator",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Medication-assisted treatment through emergency medical services",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Portable body cooler",
+    "amount": null,
+    "category": "medical_examiner_epi",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Residential substance abuse treatment",
+    "amount": null,
+    "category": "treatment_residential",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Substance use education and treatment for incarcerated youth",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Aging and Disabilities Services Opioid Prevention Project",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Filling gaps in community paramedic coverage",
+    "amount": null,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Grief outreach and care after overdose deaths",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Overdose prediction model",
+    "amount": null,
+    "category": "data_analytics",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Pre/post incarceration access to treatment and healing",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Research and education on the prevalence of overdoses in Black and Brown communities",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Harm reduction beds",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "milwaukee-city",
+    "county_name": "Milwaukee, city",
+    "period_label": "2022-2024",
+    "text": "Expanding Substance Use Disorder treatment network",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "monroe-county",
+    "county_name": "Monroe County",
+    "period_label": "2025",
+    "text": "Peer support group in jail, safe syringe disposal",
+    "amount": 3896.34,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "monroe-county",
+    "county_name": "Monroe County",
+    "period_label": "2025",
+    "text": "community resource deputy in the sheriff's office",
+    "amount": null,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "mount-pleasant-village",
+    "county_name": "Mount Pleasant, village",
+    "period_label": "2025",
+    "text": "Crime scene response/command van",
+    "amount": 18607.0,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "mount-pleasant-village",
+    "county_name": "Mount Pleasant, village",
+    "period_label": "2025",
+    "text": "TruNarc drug testing kit",
+    "amount": 36280.0,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "mount-pleasant-village",
+    "county_name": "Mount Pleasant, village",
+    "period_label": "2022-2024",
+    "text": "AEDs, 2021 expenditures",
+    "amount": 27188.0,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "period_or_amount_unclear"
+    ]
+  },
+  {
+    "county_id": "oconto-county",
+    "county_name": "Oconto County",
+    "period_label": "2025",
+    "text": "Unity Recovery Services funding for peer support, treatment resources, distribution of supplies like overdose reversal medication, pre-release jail counseling",
+    "amount": 55000.0,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "phrase_may_include_unpriced_items"
+    ]
+  },
+  {
+    "county_id": "oconto-county",
+    "county_name": "Oconto County",
+    "period_label": "2025",
+    "text": "after-prom events",
+    "amount": 2000.0,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "oconto-county",
+    "county_name": "Oconto County",
+    "period_label": "2025",
+    "text": "overdose reversal medication and distribution stands",
+    "amount": 6807.0,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "oconto-county",
+    "county_name": "Oconto County",
+    "period_label": "2025",
+    "text": "transportation, child care and drug screening for people approved for treatment",
+    "amount": 5060.0,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "oconto-county",
+    "county_name": "Oconto County",
+    "period_label": "2025",
+    "text": "school speaker on recovery",
+    "amount": 13100.0,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "oneida-county",
+    "county_name": "Oneida County",
+    "period_label": "2025",
+    "text": "Treatment alternative and diversion program matching funds",
+    "amount": 23187.0,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "oneida-county",
+    "county_name": "Oneida County",
+    "period_label": "2025",
+    "text": "telehealth treatment expansion",
+    "amount": 3791.0,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "outagamie-county",
+    "county_name": "Outagamie County",
+    "period_label": "2025",
+    "text": "Opioid diversion deputies",
+    "amount": 439945.0,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "outagamie-county",
+    "county_name": "Outagamie County",
+    "period_label": "2022-2024",
+    "text": "Public Service Announcement with Brown County about opioid treatment options",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "outagamie-county",
+    "county_name": "Outagamie County",
+    "period_label": "2022-2024",
+    "text": "Sheriff's Department opioid testing",
+    "amount": null,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "outagamie-county",
+    "county_name": "Outagamie County",
+    "period_label": "2022-2024",
+    "text": "Community Overdose Action Team and community assessment",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "outagamie-county",
+    "county_name": "Outagamie County",
+    "period_label": "2022-2024",
+    "text": "Post-release overdose prevention kits for jail",
+    "amount": null,
+    "category": "staff_admin",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "outagamie-county",
+    "county_name": "Outagamie County",
+    "period_label": "2022-2024",
+    "text": "Strategies to increase Naloxone availability Overdose Aid Kits",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "outagamie-county",
+    "county_name": "Outagamie County",
+    "period_label": "2022-2024",
+    "text": "Medication lock boxes",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "outagamie-county",
+    "county_name": "Outagamie County",
+    "period_label": "2022-2024",
+    "text": "Opioid simulations in schools and community",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "outagamie-county",
+    "county_name": "Outagamie County",
+    "period_label": "2022-2024",
+    "text": "Community Health Education Substance Use prevention position",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "outagamie-county",
+    "county_name": "Outagamie County",
+    "period_label": "2022-2024",
+    "text": "Substance use discharge planner for incarcerated people",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "ozaukee-county",
+    "county_name": "Ozaukee County",
+    "period_label": "2025",
+    "text": "Alcohol and other drug abuse and behavioral health co-responder team",
+    "amount": null,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "ozaukee-county",
+    "county_name": "Ozaukee County",
+    "period_label": "2022-2024",
+    "text": "Substance use discharge planner for incarcerated people",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "pierce-county",
+    "county_name": "Pierce County",
+    "period_label": "2025",
+    "text": "Parent recovery cafes, co-responder and drug testing position, family centered treatment and recovery, Deterra drug disposal bags, sheriff's app",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "multi_item_text"
+    ]
+  },
+  {
+    "county_id": "pierce-county",
+    "county_name": "Pierce County",
+    "period_label": "2022-2024",
+    "text": "Parent recovery cafes",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "pierce-county",
+    "county_name": "Pierce County",
+    "period_label": "2022-2024",
+    "text": "Co-responder/drug tester",
+    "amount": null,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "pleasant-prairie-village",
+    "county_name": "Pleasant Prairie, village",
+    "period_label": "2025",
+    "text": "co-responder position",
+    "amount": 3717.2,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "pleasant-prairie-village",
+    "county_name": "Pleasant Prairie, village",
+    "period_label": "2025",
+    "text": "automated external defibrillators",
+    "amount": 20350.79,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "pleasant-prairie-village",
+    "county_name": "Pleasant Prairie, village",
+    "period_label": "2022-2024",
+    "text": "Drug takeback disposal or destruction programs",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "racine-county",
+    "county_name": "Racine County",
+    "period_label": "2025",
+    "text": "Public service campaign for vending machines with overdose reversal medication and fentanyl test strips, behavioral health services and general awareness of opioid issues",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "richland-county",
+    "county_name": "Richland County",
+    "period_label": "2025",
+    "text": "DARE, treatment court",
+    "amount": null,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "richland-county",
+    "county_name": "Richland County",
+    "period_label": "2022-2024",
+    "text": "Opioid settlement funds use assessment",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "rock-county",
+    "county_name": "Rock County",
+    "period_label": "2025",
+    "text": "Youth prevention grants",
+    "amount": 100175.0,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "rock-county",
+    "county_name": "Rock County",
+    "period_label": "2025",
+    "text": "Justice Point - screening for people entering criminal justice system in need of treatment",
+    "amount": 57662.0,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "rock-county",
+    "county_name": "Rock County",
+    "period_label": "2025",
+    "text": "medication-assisted treatment in jail",
+    "amount": 48707.0,
+    "category": "jail_moud",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "rock-county",
+    "county_name": "Rock County",
+    "period_label": "2025",
+    "text": "intensive outpatient program",
+    "amount": 199992.0,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "rock-county",
+    "county_name": "Rock County",
+    "period_label": "2025",
+    "text": "transportation grants",
+    "amount": 24701.0,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "rock-county",
+    "county_name": "Rock County",
+    "period_label": "2025",
+    "text": "recovery housing grants",
+    "amount": 270600.0,
+    "category": "housing_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "rock-county",
+    "county_name": "Rock County",
+    "period_label": "2025",
+    "text": "basic need funding for people in recovery",
+    "amount": 370.0,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "rock-county",
+    "county_name": "Rock County",
+    "period_label": "2025",
+    "text": "peer support",
+    "amount": 150000.0,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "rock-county",
+    "county_name": "Rock County",
+    "period_label": "2025",
+    "text": "medication disposal",
+    "amount": 5730.0,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "rock-county",
+    "county_name": "Rock County",
+    "period_label": "2022-2024",
+    "text": "Teen Intervene in Janesville schools",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "rock-county",
+    "county_name": "Rock County",
+    "period_label": "2022-2024",
+    "text": "Mental health curriculum at two Beloit afterschool programs",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "rock-county",
+    "county_name": "Rock County",
+    "period_label": "2022-2024",
+    "text": "Gap analysis",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "rock-county",
+    "county_name": "Rock County",
+    "period_label": "2022-2024",
+    "text": "Strengthening Families program",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "rock-county",
+    "county_name": "Rock County",
+    "period_label": "2022-2024",
+    "text": "Expanded screening for people entering the criminal justice system in need of opioid treatment",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "rock-county",
+    "county_name": "Rock County",
+    "period_label": "2022-2024",
+    "text": "Opioid use disorder medication for people leaving jail",
+    "amount": null,
+    "category": "jail_moud",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "rock-county",
+    "county_name": "Rock County",
+    "period_label": "2022-2024",
+    "text": "New sober living home",
+    "amount": null,
+    "category": "housing_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "rock-county",
+    "county_name": "Rock County",
+    "period_label": "2022-2024",
+    "text": "New sober living home",
+    "amount": null,
+    "category": "housing_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "rock-county",
+    "county_name": "Rock County",
+    "period_label": "2022-2024",
+    "text": "New female sober living home",
+    "amount": null,
+    "category": "housing_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "rock-county",
+    "county_name": "Rock County",
+    "period_label": "2022-2024",
+    "text": "Beloit intensive outpatient program",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "sauk-county",
+    "county_name": "Sauk County",
+    "period_label": "2025",
+    "text": "Child Protective Services - family support specialist, part-time justice diversion and support education navigator, drug disposal education and supplies, overdose reversal medication training and disbursement, warm-handoff services for treatment court participants, harm reduction supplies like xylazine test strips and drug testing kit pouches",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "multi_item_text"
+    ]
+  },
+  {
+    "county_id": "sauk-county",
+    "county_name": "Sauk County",
+    "period_label": "2022-2024",
+    "text": "WisHope Recovery Community Organization contract",
+    "amount": null,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "sauk-county",
+    "county_name": "Sauk County",
+    "period_label": "2022-2024",
+    "text": "Opioid recovery education",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "sawyer-county",
+    "county_name": "Sawyer County",
+    "period_label": "2025",
+    "text": "Overdose fatality review data collection and evaluation staff time, prevention programming focused on vaping, Americorps peer recovery coach position, marketing for projects, events and resources, overdose reversal medication on local buses",
+    "amount": null,
+    "category": "medical_examiner_epi",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "multi_item_text"
+    ]
+  },
+  {
+    "county_id": "sawyer-county",
+    "county_name": "Sawyer County",
+    "period_label": "2022-2024",
+    "text": "2023 disbursements not specified",
+    "amount": 17311.0,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "period_or_amount_unclear"
+    ]
+  },
+  {
+    "county_id": "sawyer-county",
+    "county_name": "Sawyer County",
+    "period_label": "2022-2024",
+    "text": "Fentanyl Awareness Campaign",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "sawyer-county",
+    "county_name": "Sawyer County",
+    "period_label": "2022-2024",
+    "text": "Recovery resource billboard campaign",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "sawyer-county",
+    "county_name": "Sawyer County",
+    "period_label": "2022-2024",
+    "text": "AmeriCorps peer recovery coaches",
+    "amount": null,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "shawano-county",
+    "county_name": "Shawano County",
+    "period_label": "2022-2024",
+    "text": "Drug Court inpatient treatment",
+    "amount": null,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "shawano-county",
+    "county_name": "Shawano County",
+    "period_label": "2022-2024",
+    "text": "Narcan",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "shawano-county",
+    "county_name": "Shawano County",
+    "period_label": "2022-2024",
+    "text": "Foster care placement costs",
+    "amount": null,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "sheboygan-county",
+    "county_name": "Sheboygan County",
+    "period_label": "2025",
+    "text": "Dual diagnosis therapist, jail transition planner, opioid fatality review team, medication-assisted treatment",
+    "amount": null,
+    "category": "jail_moud",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "multi_item_text"
+    ]
+  },
+  {
+    "county_id": "sheboygan-county",
+    "county_name": "Sheboygan County",
+    "period_label": "2022-2024",
+    "text": "Youth dual diagnosis therapist",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "sheboygan-county",
+    "county_name": "Sheboygan County",
+    "period_label": "2022-2024",
+    "text": "Jail transitional planner",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "south-milwaukee-city",
+    "county_name": "South Milwaukee, city",
+    "period_label": "2025",
+    "text": "The fire department's mobile integrated health unit full-time lieutenant and vehicle, outreach and overdose reversal training at resource fairs, drug recognition and drug overdose response training for law enforcement",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "st-croix-county",
+    "county_name": "St. Croix County",
+    "period_label": "2025",
+    "text": "Jail mental health social worker",
+    "amount": 91587.0,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "st-croix-county",
+    "county_name": "St. Croix County",
+    "period_label": "2025",
+    "text": "children services/behavioral health social worker",
+    "amount": 82867.0,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "st-croix-county",
+    "county_name": "St. Croix County",
+    "period_label": "2022-2024",
+    "text": "Jail Mental Health Social Worker",
+    "amount": null,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "st-croix-county",
+    "county_name": "St. Croix County",
+    "period_label": "2022-2024",
+    "text": "Children Services/Behavioral Health Social Worker",
+    "amount": null,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "st-croix-county",
+    "county_name": "St. Croix County",
+    "period_label": "2022-2024",
+    "text": "Optional questions not submitted for 2024 disbursements",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "superior-city",
+    "county_name": "Superior, city",
+    "period_label": "2025",
+    "text": "Data collection and research",
+    "amount": null,
+    "category": "data_analytics",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "taylor-county",
+    "county_name": "Taylor County",
+    "period_label": "2025",
+    "text": "Residential and outpatient treatment, rent assistance, peer recovery and testing service through recovery court, Man Therapy education, overdose prevention training, medication disposal bags, sharps drop boxes",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "multi_item_text"
+    ]
+  },
+  {
+    "county_id": "taylor-county",
+    "county_name": "Taylor County",
+    "period_label": "2022-2024",
+    "text": "Chess Health-Connection App",
+    "amount": null,
+    "category": "data_analytics",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "taylor-county",
+    "county_name": "Taylor County",
+    "period_label": "2022-2024",
+    "text": "Gas cards for people traveling to treatment facilities",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "taylor-county",
+    "county_name": "Taylor County",
+    "period_label": "2022-2024",
+    "text": "Sober living and substance use treatment for three people",
+    "amount": null,
+    "category": "housing_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "taylor-county",
+    "county_name": "Taylor County",
+    "period_label": "2022-2024",
+    "text": "Treatment court residential care",
+    "amount": null,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "taylor-county",
+    "county_name": "Taylor County",
+    "period_label": "2022-2024",
+    "text": "Treatment Court peer recovery coach training. \"Man Therapy\" online platform to connect residents with mental health and substance use used to resources",
+    "amount": null,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "trempealeau-county",
+    "county_name": "Trempealeau County",
+    "period_label": "2022-2024",
+    "text": "Increased mental health and/or opioid treatment to people in county jail",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "union-grove-village",
+    "county_name": "Union Grove, village",
+    "period_label": "2022-2024",
+    "text": "None specified",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "vernon-county",
+    "county_name": "Vernon County",
+    "period_label": "2025",
+    "text": "HOPE opioid education and prevention curriculum in the Westby Area School District",
+    "amount": 34000.0,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "vernon-county",
+    "county_name": "Vernon County",
+    "period_label": "2025",
+    "text": "Smore Services LLC peer support mobile unity",
+    "amount": 25000.0,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "vernon-county",
+    "county_name": "Vernon County",
+    "period_label": "2025",
+    "text": "medication lock boxes",
+    "amount": 25000.0,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "vernon-county",
+    "county_name": "Vernon County",
+    "period_label": "2025",
+    "text": "prevention, support services and harm reduction at two libraries",
+    "amount": 50000.0,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "vernon-county",
+    "county_name": "Vernon County",
+    "period_label": "2025",
+    "text": "Next Steps for Change peer support, recovery coaching and harm reduction",
+    "amount": 25000.0,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "vernon-county",
+    "county_name": "Vernon County",
+    "period_label": "2022-2024",
+    "text": "Educational marketing campaign around Fentanyl/Opioids",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "vernon-county",
+    "county_name": "Vernon County",
+    "period_label": "2022-2024",
+    "text": "Medication lock box initiative",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "vernon-county",
+    "county_name": "Vernon County",
+    "period_label": "2022-2024",
+    "text": "Knutson Memorial Library prevention, recovery and harm reduction programming",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "vernon-county",
+    "county_name": "Vernon County",
+    "period_label": "2022-2024",
+    "text": "Next Steps for Change peer support and harm reduction strategies",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "vernon-county",
+    "county_name": "Vernon County",
+    "period_label": "2022-2024",
+    "text": "McIntosh Memorial Library opioid educational resources",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "vilas-county",
+    "county_name": "Vilas County",
+    "period_label": "2025",
+    "text": "Jail-based recovery program",
+    "amount": 10173.0,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "vilas-county",
+    "county_name": "Vilas County",
+    "period_label": "2022-2024",
+    "text": "Matching funds for the Treatment Alternative Diversion grant",
+    "amount": null,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "walworth-county",
+    "county_name": "Walworth County",
+    "period_label": "2025",
+    "text": "Overdose fatality review team/caregiver support, prevention programs, stigma reduction campaign/recovery friendly workplaces, Naltrexone/vivitrol - medication to assist with relapse prevention, support for children's services, outpatient medication-assisted treatment, inpatient treatment, treatment for people incarcerated, two community substance use specialists",
+    "amount": null,
+    "category": "medical_examiner_epi",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "multi_item_text"
+    ]
+  },
+  {
+    "county_id": "walworth-county",
+    "county_name": "Walworth County",
+    "period_label": "2022-2024",
+    "text": "Stigma reduction and recovery friendly workplaces media campaigns",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "walworth-county",
+    "county_name": "Walworth County",
+    "period_label": "2022-2024",
+    "text": "Naltrexone and Vivitrol",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "walworth-county",
+    "county_name": "Walworth County",
+    "period_label": "2022-2024",
+    "text": "Face shields for nurses administering vivitrol",
+    "amount": null,
+    "category": "staff_admin",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "walworth-county",
+    "county_name": "Walworth County",
+    "period_label": "2022-2024",
+    "text": "Caregiver support groups and financial incentives for people with lived experience through the Overdose Fatality Review Team",
+    "amount": null,
+    "category": "medical_examiner_epi",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "walworth-county",
+    "county_name": "Walworth County",
+    "period_label": "2022-2024",
+    "text": "Online tool for substance use gap analysis",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "walworth-county",
+    "county_name": "Walworth County",
+    "period_label": "2022-2024",
+    "text": "Community substance use specialists",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "washington-county",
+    "county_name": "Washington County",
+    "period_label": "2025",
+    "text": "The starting costs for an eight-bed sober living facility for women and their children, an assistant county attorney who supports pretrial services and treatment and diversion court",
+    "amount": 51162.0,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "phrase_may_include_unpriced_items"
+    ]
+  },
+  {
+    "county_id": "washington-county",
+    "county_name": "Washington County",
+    "period_label": "2025",
+    "text": "full-time family services coordinator who providers services to families impacted by opioid use",
+    "amount": null,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "washington-county",
+    "county_name": "Washington County",
+    "period_label": "2022-2024",
+    "text": "Assistant County Attorney that supports pre-trial services, connects people to services, and supports treatment court",
+    "amount": null,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waukesha-county",
+    "county_name": "Waukesha County",
+    "period_label": "2025",
+    "text": "Outpatient treatment",
+    "amount": 8704.0,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waukesha-county",
+    "county_name": "Waukesha County",
+    "period_label": "2025",
+    "text": "pretrial diversion services",
+    "amount": 198711.0,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waukesha-county",
+    "county_name": "Waukesha County",
+    "period_label": "2025",
+    "text": "marketing",
+    "amount": 93468.0,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waukesha-county",
+    "county_name": "Waukesha County",
+    "period_label": "2025",
+    "text": "medications for opioid use disorder jail",
+    "amount": 251495.0,
+    "category": "jail_moud",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waukesha-county",
+    "county_name": "Waukesha County",
+    "period_label": "2025",
+    "text": "drug treatment court staff training",
+    "amount": 18045.0,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waukesha-county",
+    "county_name": "Waukesha County",
+    "period_label": "2025",
+    "text": "opioid overdoses reversal drugs",
+    "amount": 24117.0,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waukesha-county",
+    "county_name": "Waukesha County",
+    "period_label": "2025",
+    "text": "overdose fatality review",
+    "amount": 109722.0,
+    "category": "medical_examiner_epi",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waukesha-county",
+    "county_name": "Waukesha County",
+    "period_label": "2025",
+    "text": "embedded crisis services",
+    "amount": 120000.0,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waukesha-county",
+    "county_name": "Waukesha County",
+    "period_label": "2025",
+    "text": "District Attorney - victim wellness program",
+    "amount": 160000.0,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waukesha-county",
+    "county_name": "Waukesha County",
+    "period_label": "2025",
+    "text": "medical examiner - support overdose review",
+    "amount": 114352.0,
+    "category": "medical_examiner_epi",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "amount_without_dollar_sign"
+    ]
+  },
+  {
+    "county_id": "waukesha-county",
+    "county_name": "Waukesha County",
+    "period_label": "2022-2024",
+    "text": "Overdose kits",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waukesha-county",
+    "county_name": "Waukesha County",
+    "period_label": "2022-2024",
+    "text": "Overdose technology",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waukesha-county",
+    "county_name": "Waukesha County",
+    "period_label": "2022-2024",
+    "text": "Outpatient treatment",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waukesha-county",
+    "county_name": "Waukesha County",
+    "period_label": "2022-2024",
+    "text": "Pretrial diversion services",
+    "amount": null,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waukesha-county",
+    "county_name": "Waukesha County",
+    "period_label": "2022-2024",
+    "text": "Marketing",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waukesha-county",
+    "county_name": "Waukesha County",
+    "period_label": "2022-2024",
+    "text": "Medications for Opioid Use Disorder in jail",
+    "amount": null,
+    "category": "jail_moud",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waukesha-county",
+    "county_name": "Waukesha County",
+    "period_label": "2022-2024",
+    "text": "Drug treatment court staff training",
+    "amount": null,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waukesha-county",
+    "county_name": "Waukesha County",
+    "period_label": "2022-2024",
+    "text": "Inpatient treatment",
+    "amount": null,
+    "category": "treatment_residential",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waupaca-county",
+    "county_name": "Waupaca County",
+    "period_label": "2025",
+    "text": "Drug treatment court, overdose reversal drugs",
+    "amount": 899.0,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waupaca-county",
+    "county_name": "Waupaca County",
+    "period_label": "2022-2024",
+    "text": "Awareness campaign",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waupaca-county",
+    "county_name": "Waupaca County",
+    "period_label": "2022-2024",
+    "text": "Training for public health home visitation staff",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waupaca-county",
+    "county_name": "Waupaca County",
+    "period_label": "2022-2024",
+    "text": "Narcotics investigations equipment, TruNarc",
+    "amount": null,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waupaca-county",
+    "county_name": "Waupaca County",
+    "period_label": "2022-2024",
+    "text": "Prevention media campaign",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waupaca-county",
+    "county_name": "Waupaca County",
+    "period_label": "2022-2024",
+    "text": "Substance use disorder counselor",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waupaca-county",
+    "county_name": "Waupaca County",
+    "period_label": "2022-2024",
+    "text": "Training substance use disorder Counselor",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waushara-county",
+    "county_name": "Waushara County",
+    "period_label": "2025",
+    "text": "Treatment, rental assistance for sober living, recovery coach through a community partner, law enforcement and recovery coach training",
+    "amount": 1955.0,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "phrase_may_include_unpriced_items"
+    ]
+  },
+  {
+    "county_id": "waushara-county",
+    "county_name": "Waushara County",
+    "period_label": "2025",
+    "text": "foster care training, respite and household supplies",
+    "amount": 9565.0,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waushara-county",
+    "county_name": "Waushara County",
+    "period_label": "2025",
+    "text": "harm reduction kits",
+    "amount": 2543.0,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waushara-county",
+    "county_name": "Waushara County",
+    "period_label": "2022-2024",
+    "text": "Sober living",
+    "amount": null,
+    "category": "housing_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waushara-county",
+    "county_name": "Waushara County",
+    "period_label": "2022-2024",
+    "text": "Recovery coach",
+    "amount": null,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waushara-county",
+    "county_name": "Waushara County",
+    "period_label": "2022-2024",
+    "text": "Fentanyl and other opioid detecting equipment for Sheriff's Office",
+    "amount": null,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waushara-county",
+    "county_name": "Waushara County",
+    "period_label": "2022-2024",
+    "text": "Sober living home software",
+    "amount": null,
+    "category": "housing_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waushara-county",
+    "county_name": "Waushara County",
+    "period_label": "2022-2024",
+    "text": "Drug Endangered Children conference costs for health staff and police",
+    "amount": null,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waushara-county",
+    "county_name": "Waushara County",
+    "period_label": "2022-2024",
+    "text": "Inpatient treatment",
+    "amount": null,
+    "category": "treatment_residential",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waushara-county",
+    "county_name": "Waushara County",
+    "period_label": "2022-2024",
+    "text": "Step-down facility after treatment",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waushara-county",
+    "county_name": "Waushara County",
+    "period_label": "2022-2024",
+    "text": "Sober living home rent",
+    "amount": null,
+    "category": "housing_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waushara-county",
+    "county_name": "Waushara County",
+    "period_label": "2022-2024",
+    "text": "Support for a recovery coach",
+    "amount": null,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waushara-county",
+    "county_name": "Waushara County",
+    "period_label": "2022-2024",
+    "text": "Vivitrol for uninsured person",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waushara-county",
+    "county_name": "Waushara County",
+    "period_label": "2022-2024",
+    "text": "Locked medication boxes",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "waushara-county",
+    "county_name": "Waushara County",
+    "period_label": "2022-2024",
+    "text": "One month of rent for a mom with substance use issues",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "wauwatosa-city",
+    "county_name": "Wauwatosa, city",
+    "period_label": "2025",
+    "text": "Substance abuse prevention, support people in treatment and recovery",
+    "amount": 16.0,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "wauwatosa-city",
+    "county_name": "Wauwatosa, city",
+    "period_label": "2025",
+    "text": "connections to care",
+    "amount": 2034.0,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "wauwatosa-city",
+    "county_name": "Wauwatosa, city",
+    "period_label": "2025",
+    "text": "addressing the needs of pregnant or parenting women and their families",
+    "amount": 886.0,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "wauwatosa-city",
+    "county_name": "Wauwatosa, city",
+    "period_label": "2025",
+    "text": "prevent overdose deaths and other harms",
+    "amount": 7853.0,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "wauwatosa-city",
+    "county_name": "Wauwatosa, city",
+    "period_label": "2025",
+    "text": "leadership planning and coordination",
+    "amount": 1405.0,
+    "category": "staff_admin",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "wauwatosa-city",
+    "county_name": "Wauwatosa, city",
+    "period_label": "2025",
+    "text": "training",
+    "amount": 1740.0,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "west-allis-city",
+    "county_name": "West Allis, city",
+    "period_label": "2025",
+    "text": "Radio campaign on overdose prevention, hanging banner campaign, opioid use disorder resource card, poster on overdose reversal medication and signs of an overdose, postcards with overdose prevention information, drink coasters in bars with overdose awareness messaging, overdose reversal medication training, drug dropbox, sober living rental assistance, This is Not About Drugs youth overdose prevention program",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "multi_item_text"
+    ]
+  },
+  {
+    "county_id": "west-allis-city",
+    "county_name": "West Allis, city",
+    "period_label": "2022-2024",
+    "text": "Staff planning and community engagement efforts",
+    "amount": null,
+    "category": "staff_admin",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "west-allis-city",
+    "county_name": "West Allis, city",
+    "period_label": "2022-2024",
+    "text": "Billboard campaign",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "west-allis-city",
+    "county_name": "West Allis, city",
+    "period_label": "2022-2024",
+    "text": "Hanging banner campaign",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "west-allis-city",
+    "county_name": "West Allis, city",
+    "period_label": "2022-2024",
+    "text": "Substance Use Disorder Resource card",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "west-allis-city",
+    "county_name": "West Allis, city",
+    "period_label": "2022-2024",
+    "text": "Postcards with naloxone information",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "west-allis-city",
+    "county_name": "West Allis, city",
+    "period_label": "2022-2024",
+    "text": "Commercials about overdoses and naloxone",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "west-allis-city",
+    "county_name": "West Allis, city",
+    "period_label": "2022-2024",
+    "text": "Fentanyl test stip kits",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "west-allis-city",
+    "county_name": "West Allis, city",
+    "period_label": "2022-2024",
+    "text": "Narcan administration training",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "west-allis-city",
+    "county_name": "West Allis, city",
+    "period_label": "2022-2024",
+    "text": "RX Destroyer medication disposal",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "winnebago-county",
+    "county_name": "Winnebago County",
+    "period_label": "2025",
+    "text": "Sobriety and Treatment Assisted Recovery program in the county jail",
+    "amount": 120000.0,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "winnebago-county",
+    "county_name": "Winnebago County",
+    "period_label": "2025",
+    "text": "CONNECT diversion program",
+    "amount": 570136.0,
+    "category": "diversion_courts",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "winnebago-county",
+    "county_name": "Winnebago County",
+    "period_label": "2025",
+    "text": "community living room for peer-based recovery support",
+    "amount": 6461.0,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "winnebago-county",
+    "county_name": "Winnebago County",
+    "period_label": "2022-2024",
+    "text": "Sobriety and Treatment Assisted Recovery program in county jail",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "winnebago-county",
+    "county_name": "Winnebago County",
+    "period_label": "2022-2024",
+    "text": "CONNECT Program and Safe Streets Initiatives in Human Services and courts",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "winnebago-county",
+    "county_name": "Winnebago County",
+    "period_label": "2022-2024",
+    "text": "TruNarc Handheld Narcotics Analyzers",
+    "amount": null,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "wood-county",
+    "county_name": "Wood County",
+    "period_label": "2025",
+    "text": "IMPACT prevention coalition, opioid relief efforts in county jail, syringe services and harm reduction, peer recovery and community outreach project, expanded family outreach and support services, school-based prevention programming, fire department peer support",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": [
+      "multi_item_text"
+    ]
+  },
+  {
+    "county_id": "wood-county",
+    "county_name": "Wood County",
+    "period_label": "2022-2024",
+    "text": "New Family Health Center satellite location",
+    "amount": null,
+    "category": "other",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "wood-county",
+    "county_name": "Wood County",
+    "period_label": "2022-2024",
+    "text": "Vivent Harm Reduction Project",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "wood-county",
+    "county_name": "Wood County",
+    "period_label": "2022-2024",
+    "text": "First responder and frontline workforce training on opioid prevention and harm reduction",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "wood-county",
+    "county_name": "Wood County",
+    "period_label": "2022-2024",
+    "text": "Rent Smart education on finding and keeping affordable sober housing",
+    "amount": null,
+    "category": "housing_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "wood-county",
+    "county_name": "Wood County",
+    "period_label": "2022-2024",
+    "text": "Harm reduction and education for domestic and sexual violence",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "wood-county",
+    "county_name": "Wood County",
+    "period_label": "2022-2024",
+    "text": "Kairos Care Hannah Center - program for nonresidential women in crisis",
+    "amount": null,
+    "category": "navigation_case_management",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "wood-county",
+    "county_name": "Wood County",
+    "period_label": "2022-2024",
+    "text": "Marshfield Area Coalition for Youth",
+    "amount": null,
+    "category": "prevention_education",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "wood-county",
+    "county_name": "Wood County",
+    "period_label": "2022-2024",
+    "text": "Jail-based medication-assisted recovery program",
+    "amount": null,
+    "category": "jail_moud",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "wood-county",
+    "county_name": "Wood County",
+    "period_label": "2022-2024",
+    "text": "Employee wellness for Sheriff's Department",
+    "amount": null,
+    "category": "enforcement",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "wood-county",
+    "county_name": "Wood County",
+    "period_label": "2022-2024",
+    "text": "Peer support recovery project Juvenile Justice Ministries - Life Choices, Badgerland Youth for Christ",
+    "amount": null,
+    "category": "peer_recovery",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "wood-county",
+    "county_name": "Wood County",
+    "period_label": "2022-2024",
+    "text": "Officer mental health support, Marshfield Police Department",
+    "amount": null,
+    "category": "treatment_outpatient",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "yorkville-village",
+    "county_name": "Yorkville, village",
+    "period_label": "2025",
+    "text": "Overdose reversal medication",
+    "amount": 534.0,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  },
+  {
+    "county_id": "yorkville-village",
+    "county_name": "Yorkville, village",
+    "period_label": "2022-2024",
+    "text": "\"Buying overdose reversal medication, treating opioid use.\"",
+    "amount": null,
+    "category": "harm_reduction_naloxone",
+    "status": "reported_initiative",
+    "source": "Wisconsin Watch tracker",
+    "flags": []
+  }
+]

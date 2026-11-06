@@ -1,0 +1,77 @@
+[
+  {
+    "id": "jail_moud",
+    "label": "Jail-based medication for opioid use disorder",
+    "description": "Medication for opioid use disorder (MOUD/MAT) delivered in a county jail or to incarcerated people."
+  },
+  {
+    "id": "medical_examiner_epi",
+    "label": "Medical examiner and overdose death review",
+    "description": "Medical examiner or coroner capacity, autopsy equipment, toxicology and overdose fatality review teams."
+  },
+  {
+    "id": "harm_reduction_naloxone",
+    "label": "Harm reduction and naloxone",
+    "description": "Naloxone/overdose reversal drugs, test strips, syringe services, sharps, lock boxes, medication disposal."
+  },
+  {
+    "id": "peer_recovery",
+    "label": "Peer and recovery support",
+    "description": "Peer support specialists, recovery coaches, recovery drop-in centers and mutual-aid meetings."
+  },
+  {
+    "id": "staff_admin",
+    "label": "Staffing, administration and responder wellness",
+    "description": "Administration, bank fees, leases, planning, and first-responder or officer wellness."
+  },
+  {
+    "id": "navigation_case_management",
+    "label": "Navigation, case management and crisis response",
+    "description": "Navigators, case managers, social workers, co-responders, crisis and paramedic programs, wellness checks."
+  },
+  {
+    "id": "housing_recovery",
+    "label": "Recovery and sober housing",
+    "description": "Sober living, recovery residences, rental assistance and homelessness services."
+  },
+  {
+    "id": "diversion_courts",
+    "label": "Diversion and treatment courts",
+    "description": "Drug or treatment courts, pretrial and deflection programs, prosecutor-side diversion."
+  },
+  {
+    "id": "reentry",
+    "label": "Reentry",
+    "description": "Services for people leaving jail or prison."
+  },
+  {
+    "id": "treatment_residential",
+    "label": "Residential and inpatient treatment",
+    "description": "Inpatient, residential, withdrawal management and room and board for treatment."
+  },
+  {
+    "id": "treatment_outpatient",
+    "label": "Outpatient treatment and counseling",
+    "description": "Counseling, outpatient and telehealth treatment, clinics, medication treatment outside jails."
+  },
+  {
+    "id": "prevention_education",
+    "label": "Prevention and education",
+    "description": "School curricula, awareness campaigns, speakers, training and public messaging."
+  },
+  {
+    "id": "enforcement",
+    "label": "Law enforcement",
+    "description": "Officers, detectives, deputies, task forces, drug testing kits and enforcement equipment."
+  },
+  {
+    "id": "data_analytics",
+    "label": "Data and analytics",
+    "description": "Data systems, analytics and prediction models."
+  },
+  {
+    "id": "other",
+    "label": "Other or unclassified",
+    "description": "Anything the keyword rules do not match."
+  }
+]

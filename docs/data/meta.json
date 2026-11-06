@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-11-06T02:10:36+00:00",
+  "sources": [
+    {
+      "name": "Wisconsin Watch tracker",
+      "url": "https://github.com/Wisconsin-Watch/2026_06_23_Opioid_Settlment_Find_Expense",
+      "retrieved_at": "2026-11-06T02:05:54+00:00"
+    },
+    {
+      "name": "County and municipal filings linked per government (report_url)",
+      "url": null,
+      "retrieved_at": null
+    }
+  ],
+  "totals": {
+    "receipts": 162593313.91,
+    "disbursements": 44057826.34,
+    "interest": 7907916.92,
+    "balance": 125439249.48,
+    "governments": 87
+  },
+  "caveats": [
+    "Figures are as self-reported by each government to the state and compiled by Wisconsin Watch; they have not been independently audited.",
+    "Receipts, disbursements and interest cover 2022 through 2025; the balance is as of December 31, 2025.",
+    "Percent spent is disbursements divided by receipts plus interest, recomputed from the reported figures.",
+    "Spending items are initiatives as the government described them in its report. They are not confirmed cash disbursements, and most governments listed only some of their spending.",
+    "Milwaukee County lists initiatives for 2023 to 2025 and for 2024 to 2026. These are program commitments, the ranges overlap, and the amounts must not be added together or compared with disbursements.",
+    "Categories are assigned by transparent keyword rules (explorer/categories.yaml) and may be wrong for individual items.",
+    "Item amounts do not sum to a government's disbursements."
+  ],
+  "method_version": "1.0"
+}
