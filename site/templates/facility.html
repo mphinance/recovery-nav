@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block main %}
+<p><a href="../index.html">&larr; All programs</a></p>
+<h1>{{ f.name }}</h1>
+<p class="meta">{{ f.street|title }}, {{ f.city }}, WI {{ f.zip }} &middot; {{ f.county }} County</p>
+<div class="tags">{% for l in f.levels_of_care %}<span class="tag">{{ labels[l] }}</span>{% endfor %}</div>
+
+<section class="panel" aria-labelledby="rv">
+  <h2 id="rv" style="margin-top:0">Our review</h2>
+  {% if f.review %}
+    <p>{{ f.review.verdict }}</p>
+    <div class="disclosure"><strong>Disclosure:</strong> {{ f.review.disclosure }}</div>
+    <dl class="facts">
+      <div><dt>Takes BadgerCare?</dt><dd>{{ {'yes':'Yes','no':'No','unclear':'Not confirmed, call to ask'}[f.review.takes_badgercare|default('unclear')] }}</dd></div>
+      {% if f.review.real_level_of_care %}<div><dt>What it really is</dt><dd>{{ f.review.real_level_of_care }}</dd></div>{% endif %}
+      {% if f.review.fits_best %}<div><dt>Fits best</dt><dd>{{ f.review.fits_best }}</dd></div>{% endif %}
+      {% if f.review.last_reviewed %}<div><dt>Last reviewed</dt><dd>{{ f.review.last_reviewed }}</dd></div>{% endif %}
+    </dl>
+    {% if f.review.ask_when_you_call %}<h3>Ask when you call</h3><ul>{% for q in f.review.ask_when_you_call %}<li>{{ q }}</li>{% endfor %}</ul>{% endif %}
+    {% if f.review.red_flags %}<h3>Things to watch for</h3><ul>{% for q in f.review.red_flags %}<li>{{ q }}</li>{% endfor %}</ul>{% endif %}
+  {% else %}
+    <p>We have not reviewed this program yet. What you see below comes from the state license record. <a href="../method.html">How reviews work</a>.</p>
+  {% endif %}
+</section>
+
+<section class="panel" aria-labelledby="lic">
+  <h2 id="lic" style="margin-top:0">State license record</h2>
+  <dl class="facts">
+    <div><dt>License number{{ 's' if f.licenses|length>1 }}</dt><dd>{{ f.licenses|join(', ') }}</dd></div>
+    <div><dt>Status</dt><dd>{{ f.status }}</dd></div>
+    <div><dt>License period</dt><dd>{{ f.license_effective }} to {{ f.license_expires }}</dd></div>
+    <div><dt>Phone (state record)</dt><dd>{{ f.phone or 'Not listed' }}</dd></div>
+    {% if f.other_sites %}<div><dt>Other site(s)</dt><dd>{% for s in f.other_sites %}{{ s.street|title }}, {{ s.city }}{% if not loop.last %}; {% endif %}{% endfor %}</dd></div>{% endif %}
+  </dl>
+  <p class="note">Source: Wisconsin Department of Health Services substance use provider directory. Phone numbers and services in state records can be out of date. Call to confirm before you travel.</p>
+</section>
+
+<section class="panel" aria-labelledby="gr">
+  <h2 id="gr" style="margin-top:0">What others say</h2>
+  {% if f.google %}
+    <p>Google: {{ f.google.rating }} stars from {{ f.google.count }} ratings. Programs often ask their own graduates and boards for reviews, so treat averages with care.</p>
+  {% endif %}
+  <p><a href="{{ f.google_maps_url }}" rel="noopener" target="_blank">Read Google reviews for this program</a></p>
+  {% if peers %}<h3>Notes from people in recovery</h3>{% for p in peers %}<blockquote><p>{{ p.note }}</p><footer class="note">{{ p.by }}</footer></blockquote>{% endfor %}{% endif %}
+</section>
+
+<p class="note">Something wrong or out of date? {% if site.contact_email %}<a href="mailto:{{ site.contact_email }}">Tell us</a>. Programs can ask us to correct a factual error and we will review it.{% else %}A correction contact is coming before launch.{% endif %}</p>
+{% endblock %}

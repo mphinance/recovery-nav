@@ -1,0 +1,11 @@
+# Manual facility merges the auto rules (same street+zip, or same phone+zip) miss.
+# groups: list of license-number lists. primary: license whose address/name leads.
+groups:
+  - licenses: ["3102", "3103"]   # The Manor, Slinger (two adjacent addresses)
+    primary: "3102"
+    display_name: "The Manor"
+primary_overrides:
+  "2598": "Exodus House"   # main site 1421 Fond du Lac Ave, Kewaskum
+display_names:
+  "2598": "Exodus House"
+  "3591": "Exodus House"

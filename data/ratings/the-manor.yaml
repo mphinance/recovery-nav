@@ -1,0 +1,12 @@
+# Michael's named review. Fill in; a facility only shows as "reviewed" when
+# verdict AND disclosure are non-empty. Keep it factual and fair: facilities get an appeal path.
+facility_id: the-manor-3102
+reviewer: Michael
+disclosure: ""        # REQUIRED. State any connection plainly (e.g. program graduate, board request for a review).
+verdict: ""           # one or two honest sentences
+takes_badgercare: unclear   # yes | no | unclear  (confirm by calling; say how you confirmed)
+real_level_of_care: ""
+fits_best: ""
+ask_when_you_call: []
+red_flags: []
+last_reviewed: ""

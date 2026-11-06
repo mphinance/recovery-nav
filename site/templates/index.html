@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block head %}<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">{% endblock %}
+{% block main %}
+<h1>{{ site.tagline }}</h1>
+<p class="lede">State-licensed programs, plain-English levels of care, and honest notes from someone who has been through it. Always call to confirm: availability, cost and insurance change.</p>
+<form class="filters" id="filters" role="search" onsubmit="return false">
+  <input type="search" id="q" placeholder="Search by name or city" aria-label="Search by name or city" autocomplete="off">
+  <select id="county" aria-label="County"><option value="">All counties</option>{% for c in counties %}<option>{{ c }}</option>{% endfor %}</select>
+  <div class="chips" role="group" aria-label="Level of care">
+    {% for key,label in levels %}<label><input type="checkbox" value="{{ key }}"> {{ label }}</label>{% endfor %}
+    <label><input type="checkbox" id="reviewed"> Reviewed by us</label>
+  </div>
+</form>
+<p class="note" id="count" aria-live="polite"></p>
+<div class="tabs" role="group" aria-label="View"><button type="button" id="tab-list" aria-pressed="true">List</button><button type="button" id="tab-map" aria-pressed="false">Map</button></div>
+<div class="layout" id="layout" data-view="list">
+  <ul class="results" id="results">
+  {% for f in facilities %}
+    <li data-id="{{ f.id }}" data-name="{{ f.name|lower }} {{ f.city|lower }}" data-county="{{ f.county }}" data-levels="{{ f.levels_of_care|join(' ') }}" data-reviewed="{{ 1 if f.review else 0 }}">
+      <article class="card">
+        <div><h3><a href="f/{{ f.id }}.html">{{ f.name }}</a></h3>
+          <div class="meta">{{ f.city }}, {{ f.county }} County{% if f.notable_outside_region %} (outside the region, included on purpose){% endif %}</div>
+          <div class="tags">{% for l in f.levels_of_care %}<span class="tag">{{ labels[l] }}</span>{% endfor %}</div></div>
+        <div class="side">{% if f.review %}<span class="badge">Reviewed</span>{% else %}<span class="badge none">Not reviewed yet</span>{% endif %}</div>
+      </article>
+    </li>
+  {% endfor %}
+  </ul>
+  <div class="mapwrap"><div id="map" role="region" aria-label="Map of facilities"></div></div>
+</div>
+<p class="empty" id="empty" hidden>Nothing matches those filters. Try removing one.</p>
+{% endblock %}
+{% block scripts %}
+<script type="application/json" id="geo">{{ geo|tojson }}</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="static/app.js"></script>
+{% endblock %}

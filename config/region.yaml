@@ -1,0 +1,17 @@
+# Counties included in the guide (DHS COUNTY column, case-insensitive)
+counties:
+  - Washington
+  - Ozaukee
+  - Waukesha
+  - Milwaukee
+  - Racine
+  - Kenosha
+  - Walworth
+  - Jefferson
+  - Dodge
+  - Sheboygan
+  - Fond du Lac
+
+# Facilities outside the region that we still want (substring match on name)
+always_include:
+  - Nova
