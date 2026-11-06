@@ -2,7 +2,7 @@
 """Independent validation of docs/data/*.json against the raw CSV.
 
 Recomputes everything from the CSV without importing build_data.py, then writes
-research/explorer/validation.md. Optional hand-written sections are appended
+a local, gitignored validation report. Optional hand-written sections are appended
 from explorer/review_notes.md when present.
 Usage: .venv/bin/python explorer/validate.py
 """
