@@ -74,3 +74,7 @@ Settlement money is meant for treatment, prevention and recovery, and it arrives
 - **Code:** MIT, see `LICENSE`.
 - **Data:** figures are public facts reported by Wisconsin governments and compiled by Wisconsin Watch; attribution is required and retained in `docs/data/meta.json`. The source file itself keeps its own (unlicensed) status and is not redistributed here.
 - **Reviews, site text of the older guide, and the project name and brand:** all rights reserved, see `CONTENT-NOTICE.md`.
+
+## District 12 meetings page
+
+A searchable list of District 12 (Washington County, Wisconsin) AA meetings lives at https://mphinance.github.io/recovery-nav/district12.html. It is unofficial and compiled weekly from the Greater Milwaukee Central Office directory, whose data belongs to the Central Office and the groups. Meetings change, so confirm with the group before you go. How it is built and refreshed is described in [district12/README.md](district12/README.md).

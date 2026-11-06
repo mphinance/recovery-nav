@@ -1,0 +1,47 @@
+name: Update District 12 Meetings
+
+on:
+  schedule:
+    # Every Sunday at 05:00 UTC
+    - cron: '0 5 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-district12
+  cancel-in-progress: false
+
+jobs:
+  update-meetings:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r district12/requirements.txt
+
+      - name: Run scraper
+        run: python district12/scrape_district12.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add docs/district12.html
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore(district12): weekly meetings update"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
